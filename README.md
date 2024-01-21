@@ -4,7 +4,7 @@
 "Just over here developing & designing things!"
 -------------------------------------
 
-Hello world! I've been on this developing journey since February of 2022. Like everyone else out there, I got sick of my career path and felt like a needed a life change. Let me tell you..it's been a challenge, BUT I've truly fallen in love with the development community and I can't wait to see what's in store for us this year. LET'S CONNECT!
+Hello world! I've been on this developing journey since February of 2023. Like everyone else out there, I got sick of my career path and felt like a needed a life change. Let me tell you..it's been a challenge, BUT I've truly fallen in love with the development community and I can't wait to see what's in store for us this year. LET'S CONNECT!
 
 * 🌍  I'm based in Florida
 * 😄  My Pronouns: He/Him

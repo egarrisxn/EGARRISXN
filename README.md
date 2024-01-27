@@ -8,7 +8,7 @@ Hello world! I've been on this developing journey since February of 2023. Like e
 
 * 🌍  I'm based in Florida
 * 😄  My Pronouns: He/Him
-* 🖥️  Check out my [portfolio](http://egxworld.vercel.app/) right here!
+* 🖥️  Check out my [website](https://www.egxworld.net) right here!
 * ✉️  Here is my [email](mailto:egarrisxn@gmail.com). Please don't spam me *lol*.
 * 🧠  I'm trying to learn everything I possibly can right now!
 * 🤝  I'm open to collaborating on just about anything you throw at me!

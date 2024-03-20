@@ -9,7 +9,7 @@ Hello world! I've been on this developing journey since the beginning of 2023. L
 * 🌍  I'm based in Florida.
 * 😄  My Pronouns are He/Him.
 * 🖥️  I dare you to check out my [website](https://www.egxworld.net)!
-* ✉️  If you'd like to reach me: [email](mailto:egarrisxn@gmail.com).
+* ✉️  If you'd like to reach me, here's my [email](mailto:egarrisxn@gmail.com).
 * 🤝  Open to collaborating on just about anything!
 * ⚡  2024 WILL BE MY YEAR!
 

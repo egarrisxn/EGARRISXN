@@ -4,13 +4,13 @@
 "Just over here developing & designing things!"
 -------------------------------------
 
-Hello world! I've been on this developing journey since the beginning of 2023. Like  so many out there, I fell tired of my career path and decided it was time for change. Let me tell you..it's been CHALLENGING, but I can honestly say I've fallen in love with it and the community. I can't wait to see what's in store for us this year. LET'S DO THIS!
+Hello world! I've been on this developing journey since the beginning of 2023. Like  so many out there, I fell tired of my career path and decided it was time for change. Let me tell you..it's been CHALLENGING, but I can honestly say I've fallen in love with it and the community. I can't wait to see what's in store for us this year.
 
 * 🌍  I'm based in Florida.
 * 😄  My Pronouns are He/Him.
 * 🖥️  I dare you to check out my [website](https://www.egxworld.net)!
 * ✉️  If you'd like to reach me: [email](mailto:egarrisxn@gmail.com).
-* 🤝  Open to collaborating on just about anything you throw at me!
+* 🤝  Open to collaborating on just about anything!
 * ⚡  2024 WILL BE MY YEAR!
 
 ### Skills

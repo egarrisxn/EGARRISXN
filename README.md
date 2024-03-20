@@ -23,8 +23,6 @@ Hello world! I've been on this developing journey since the beginning of 2023. L
 
 <p align="left"><a href="https://discord.com/users/eg___xo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" alt="Discord" /></a><a href="https://www.github.com/EGARRISXN" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /></a><a href="http://www.instagram.com/eg___xo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" alt="Instagram" /></a><a href="https://www.linkedin.com/in/ethan-garrison-261ba4a2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a><a href="https://www.x.com/e____g_______" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" alt="Twitter" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### Github
 
 <a href="http://www.github.com/EGARRISXN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EGARRISXN&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>

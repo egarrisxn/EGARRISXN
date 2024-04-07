@@ -4,6 +4,8 @@
 "Just over here developing & designing things!"
 -------------------------------------
 
+I'm a Full Stack Developer on a freaking mission!
+
 * 🌍 Based in Florida.
 * 😄 Pronouns are He/Him.
 * 🖥️ My personal [website](https://www.egxworld.net).
@@ -11,7 +13,9 @@
 * 🤝 Open to collaborating.
 * ⚡ 2024 WILL BE MY YEAR!
 
-### Skills
+<img src="https://komarev.com/ghpvc/?username=EGARRISXN&style=flat-square&color=blue" alt=""/>
+
+### Languages & Tools :
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/js.svg" width="36" height="36" alt="JS" /></a>
@@ -27,7 +31,7 @@
 
 </p>
 
-### Socials
+### Socials :
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ethan-gx/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
@@ -36,6 +40,8 @@
 <a href="https://twitter.com/eg_xo_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/socials/x.svg" width="36" height="36" alt="X" /></a>
 </p>
 
-### Github
+### Github :
 
-<a href="http://www.github.com/EGARRISXN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EGARRISXN&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EGARRISXN&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EGARRISXN&theme=dark&background=000000)](https://git.io/streak-stats)

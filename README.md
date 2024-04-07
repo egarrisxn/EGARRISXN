@@ -1,5 +1,5 @@
 
-# 👋 Hello, world. I’m Ethan! [![Visit Counter](https://komarev.com/ghpvc/?username=EGARRISXN&style=flat-square&color=blue)](https://www.github.com/EGARRISXN)
+# 👋 Hello, world. I’m Ethan!
 
 ### *"Just over here developing & designing things!"*
 
@@ -11,7 +11,10 @@
 - 🤝 Open to collaborate on anything.
 - ⚡ **2024 WILL BE MY YEAR!**
 
-### Skills_
+[![Visit Counter](https://komarev.com/ghpvc/?username=EGARRISXN&style=flat-square&color=blue)](https://www.github.com/EGARRISXN)
+
+## `Skills`
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/js.svg" width="36" height="36" alt="JS" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/ts.svg" width="36" height="36" alt="TS" /></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="36" height="36"/></a>
@@ -33,18 +36,21 @@
 <a href="https://www.jquery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/jquery.svg" alt="jQuery" width="36" height="36"/></a>
 <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/markdown.svg" alt="Markdown" width="36" height="36"/></a>
 
-### Socials_
+## `Socials`
+
 <a href="https://www.linkedin.com/in/ethan-gx/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
 <a href="https://discord.com/users/eg___xo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/socials/discord.svg" width="36" height="36" alt="Discord" /></a>
 <a href="https://www.instagram.com/eg___xo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/socials/instagram.svg" width="36" height="36" alt="Instagram" /></a>
 <a href="https://twitter.com/eg_xo_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/socials/x.svg" width="36" height="36" alt="X" /></a>
 
-### Github_
+## `Github`
+
 [![Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=EGARRISXN&show_icons=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EGARRISXN&show_icons=true&rank_icon=github&include_all_commits=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=EGARRISXN&theme=vision-friendly-dark)](https://github.com/denvercoder1/github-readme-streak-stats)
 
-### Support_
+## `Support`
+
 <a href="https://www.buymeacoffee.com/egarrisxn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>

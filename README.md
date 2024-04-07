@@ -1,15 +1,16 @@
-# 👋 Hello, world. I’m Ethan!
-## *"Just over here developing & designing things!"*
-### About_
-- 🌍 I'm based in **Florida**.
+
+# 👋 Hello, world. I’m Ethan! [![Visit Counter](https://komarev.com/ghpvc/?username=EGARRISXN&style=flat-square&color=blue)](https://www.github.com/EGARRISXN)
+
+### *"Just over here developing & designing things!"*
+
+- 🌍 Full Stack Developer in **America**.
 - 😄 My pronouns are **He/Him**.
 - 🖥️ Here is my personal ***[website](https://www.egxworld.net)***.
 - 📝 Check out my personal ***[blog](https://www.egxblog.net)***.
 - ✉️ To contact, shoot me an ***[email](mailto:egarrisxn@gmail.com)***.
-- 🤝 I'm open to collaborating.
+- 🤝 Open to collaborate on anything.
 - ⚡ **2024 WILL BE MY YEAR!**
-  
-[![Visit Counter](https://komarev.com/ghpvc/?username=EGARRISXN&style=flat-square&color=blue)](https://www.github.com/EGARRISXN)
+
 ### Skills_
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/js.svg" width="36" height="36" alt="JS" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/ts.svg" width="36" height="36" alt="TS" /></a>

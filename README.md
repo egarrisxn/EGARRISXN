@@ -3,12 +3,12 @@
 
 ### *"Just over here developing & designing things!"*
 
-- 🌍 Full Stack Developer in **America**.
-- 😄 My pronouns are **He/Him**.
-- 🖥️ Here is my personal ***[website](https://www.egxworld.net)***.
-- 📝 Check out my personal ***[blog](https://www.egxblog.net)***.
+- 🌍 Full Stack Developer located in **Florida**.
+- 😄 Pronouns are **He/Him**.
+- 🖥️ My personal ***[website](https://www.egxworld.net)***.
+- 📝 Also, my personal ***[blog](https://www.egxblog.net)***.
 - ✉️ To contact, shoot me an ***[email](mailto:egarrisxn@gmail.com)***.
-- 🤝 Open to collaborate on anything.
+- 🤝 Open to collab on just about anything.
 - ⚡ **2024 WILL BE MY YEAR!**
 
 [![Visit Counter](https://komarev.com/ghpvc/?username=EGARRISXN&style=flat-square&color=blue)](https://www.github.com/EGARRISXN)

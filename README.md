@@ -1,7 +1,7 @@
 
 # Hello, world. I'm Ethan! 👋
 
-### *"You know..just over here designing & developing things!"*
+### ***"You know..just over here designing & developing things!"***
 
 - 🌍 Full Stack Developer located in **Florida**.
 - 😄 My Pronouns are **He/Him**.
@@ -14,7 +14,9 @@
 [![Visit Counter](https://komarev.com/ghpvc/?username=EGARRISXN&style=flat-square&color=blue)](https://www.github.com/EGARRISXN)
 
 ## `Skills`
-  
+
+***Just a few things I am good at.***
+
 <table>
   <tr>
     <td>1. Application Design & Development</td>
@@ -56,6 +58,8 @@
 
 ## `Software`
 
+***Some languages, frameworks, & tools I use.***
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/js.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/ts.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://www.html.com/html5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/html5.svg" width="36" height="36" alt="Html5" /></a>
@@ -84,12 +88,16 @@
 
 ## `Socials`
 
+***Links to my social life.***
+
 <a href="https://www.x.com/eg_xo_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/socials/x.svg" width="36" height="36" alt="X" /></a>
 <a href="https://www.instagram.com/eg___xo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/socials/instagram.svg" width="36" height="36" alt="Instagram" /></a>
 <a href="https://www.linkedin.com/in/ethan-gx/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
 <a href="https://www.discord.com/users/eg___xo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/socials/discord.svg" width="36" height="36" alt="Discord" /></a>
 
 ## `Statistics`
+
+***Random GitHub tidbits.***
 
 [![Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=egarrisxn&show_icons=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -98,5 +106,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=egarrisxn&theme=vision-friendly-dark)](https://github.com/denvercoder1/github-readme-streak-stats)
 
 ## `Support`
+
+***If you like what I do.***
 
 <a href="https://www.buymeacoffee.com/egarrisxn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>

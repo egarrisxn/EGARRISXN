@@ -60,9 +60,9 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/ts.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://www.html.com/html5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/html5.svg" width="36" height="36" alt="Html5" /></a>
 <a href="https://www.css3.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/css3.svg" width="36" height="36" alt="Css3" /></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/c.svg" width="36" height="36" alt="C" /></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/c.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/git.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/webpack.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/webpack.svg" width="36" height="36" alt="Webpack" /></a>
 <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/nodejs.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.deno.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/deno.svg" width="36" height="36" alt="Deno" /></a>
 <a href="https://www.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/react.svg" width="36" height="36" alt="React" /></a>
@@ -81,13 +81,6 @@
 <a href="https://www.vercel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/vercel.svg" width="36" height="36" alt="Vercel" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/heroku.svg" width="36" height="36" alt="Heroku" /></a>
 
-## `Socials`
-  
-<a href="https://www.x.com/eg_xo_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/socials/x.svg" width="36" height="36" alt="X" /></a>
-<a href="https://www.instagram.com/eg___xo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/socials/instagram.svg" width="36" height="36" alt="Instagram" /></a>
-<a href="https://www.linkedin.com/in/ethan-gx/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
-<a href="https://www.discord.com/users/eg___xo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/socials/discord.svg" width="36" height="36" alt="Discord" /></a>
-
 ## `Statistics`
 
 [![Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=egarrisxn&show_icons=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -97,5 +90,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=egarrisxn&theme=vision-friendly-dark)](https://github.com/denvercoder1/github-readme-streak-stats)
 
 ## `Support`
+
+<a href="https://www.x.com/eg_xo_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/socials/x.svg" width="36" height="36" alt="X" /></a>
+<a href="https://www.instagram.com/eg___xo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/socials/instagram.svg" width="36" height="36" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/ethan-gx/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
+<a href="https://www.discord.com/users/eg___xo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/socials/discord.svg" width="36" height="36" alt="Discord" /></a>
 
 <a href="https://www.buymeacoffee.com/egarrisxn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>

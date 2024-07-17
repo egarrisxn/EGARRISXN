@@ -77,6 +77,7 @@
 <a href="https://www.nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/next.svg" width="28" height="28" alt="NextJS" /></a>
 <a href="https://www.astro.build/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/astro.svg" width="28" height="28" alt="Astro" /></a>
 <a href="https://www.jquery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/jquery.svg" width="28" height="28" alt="jQuery" /></a>
+<a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/alpine.svg" width="28" height="28" alt="Alpinejs" /></a>
 <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/markdown.svg" width="28" height="28"  alt="Markdown" /></a>
 <a href="https://www.expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/express.svg" width="28" height="28" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/mongodb.svg" width="28" height="28" alt="MongoDB" /></a>

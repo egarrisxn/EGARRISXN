@@ -65,6 +65,7 @@
 <a href="https://www.css3.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/css3.svg" width="40" height="40" alt="Css3" /></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/c.svg" width="40" height="40" alt="C" /></a>
 <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/git.svg" width="40" height="40" alt="Git" /></a>
+<a href="https://pnpm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/pnpm.svg" width="40" height="40" alt="PNPM"/></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/webpack.svg" width="40" height="40" alt="Webpack" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/vite.svg" alt="Vite" width="40" height="40"/></a>
 <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/nodejs.svg" width="40" height="40" alt="NodeJS" /></a>
@@ -91,6 +92,8 @@
 <a href="https://www.vercel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/vercel.svg" width="40" height="40" alt="Vercel" /></a>
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/netlify.svg" alt="Netlify" width="40" height="40"/></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/heroku.svg" width="40" height="40" alt="Heroku" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/vscode.svg" width="40" height="40" alt="VS Code"/></a>
+<a href="https://eslint.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/eslint.svg" width="40" height="40" alt="ESLint"/></a>
 
 ## `Socials`
 

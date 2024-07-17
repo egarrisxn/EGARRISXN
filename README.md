@@ -67,12 +67,13 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/c.svg" width="28" height="28" alt="C" /></a>
 <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/git.svg" width="28" height="28" alt="Git" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/webpack.svg" width="28" height="28" alt="Webpack" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/vite.svg" alt="Vite" width="28" height="28"/></a>
 <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/nodejs.svg" width="28" height="28" alt="NodeJS" /></a>
 <a href="https://www.deno.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/deno.svg" width="28" height="28" alt="Deno" /></a>
 <a href="https://www.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/react.svg" width="28" height="28" alt="React" /></a>
 <a href="https://www.vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/vue.svg" width="28" height="28" alt="Vue" /></a>
 <a href="https://www.angular.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/angular.svg" width="28" height="28" alt="Angular" /></a>
-<br/>
+<a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/svelte.svg" alt="Svelte" width="28" height="28"/></a>
 <a href="https://www.nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/next.svg" width="28" height="28" alt="NextJS" /></a>
 <a href="https://www.astro.build/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/astro.svg" width="28" height="28" alt="Astro" /></a>
 <a href="https://www.jquery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/jquery.svg" width="28" height="28" alt="jQuery" /></a>
@@ -84,7 +85,9 @@
 <a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/tailwindcss.svg" width="28" height="28" alt="TailwindCSS" /></a>
 <a href="https://www.getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/bootstrap.svg" width="28" height="28" alt="Bootstrap" /></a>
 <a href="https://www.vercel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/vercel.svg" width="28" height="28" alt="Vercel" /></a>
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/netlify.svg" alt="Netlify" width="28" height="28"/></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/heroku.svg" width="28" height="28" alt="Heroku" /></a>
+<a href="https://www.sanity.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/sanity.svg" alt="Sanity" width="28" height="28"/></a>
 
 ## `Socials`
 

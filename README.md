@@ -111,7 +111,7 @@
 
 [![Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=egarrisxn&show_icons=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=egarrisxn&show_icons=true&rank_icon=github&include_all_commits=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ [//]: # "[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=egarrisxn&show_icons=true&rank_icon=github&include_all_commits=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)"
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=egarrisxn&theme=vision-friendly-dark)](https://github.com/denvercoder1/github-readme-streak-stats)
 

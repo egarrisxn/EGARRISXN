@@ -5,7 +5,6 @@
 - 🌍 Full Stack Developer in **Florida**.
 - 😄 My Pronouns are **He/Him**.
 - 🖥️ Here is my personal **_[Website](https://www.egxworld.net)_**.
-- 📝 Also, here is my personal **_[Blog](https://www.egxblog.net)_**.
 - ✉️ To contact me, here is my **_[Email](mailto:egarrisxn@gmail.com)_**.
 - 🤝 Open for **work** & **collaboration**!
 - ⚡ **2024 WILL BE MY YEAR!**

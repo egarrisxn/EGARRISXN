@@ -13,11 +13,11 @@
 
 ## `Skills`
 
-**_Just a few things I am good at._**
+**_Just a few things i'm okay at._**
 
 <table>
   <tr>
-    <td>1. Application Design & Development</td>
+    <td>1. Web Design & Development</td>
   </tr>
   <tr>
     <td>2. Project Management & Leadership</td>
@@ -35,7 +35,7 @@
     <td>6. SEO Implementation & Utilization</td>
   </tr>
   <tr>
-    <td>7. Agile/Scrum Methodologies</td>
+    <td>7. Agile Methodologies</td>
   </tr>
   <tr>
     <td>8. RESTful API Design & Implementation</td>

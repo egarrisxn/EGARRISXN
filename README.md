@@ -13,7 +13,7 @@
 
 ## `Skills`
 
-**_Just a few things i'm okay at._**
+**_Just a few things i'm into._**
 
 <table>
   <tr>
@@ -56,7 +56,7 @@
 
 ## `Software`
 
-**_Some languages, frameworks, & tools I use._**
+**_Some languages, frameworks, & tools I've used._**
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/js.svg" width="40" height="40" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/ts.svg" width="40" height="40" alt="Typescript" /></a>

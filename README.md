@@ -92,7 +92,7 @@
 
 **_A glimpse into my life._**
 
-<a href="https://www.x.com/eg_xo_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/socials/x.svg" width="40" height="40" alt="X" /></a>
+<a href="https://www.x.com/eg__xo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/socials/x.svg" width="40" height="40" alt="X" /></a>
 <a href="https://www.instagram.com/eg___xo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/socials/instagram.svg" width="40" height="40" alt="Instagram" /></a>
 <a href="https://www.linkedin.com/in/ethan-gx/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>
 <a href="https://open.spotify.com/user/egarrisxn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/socials/spotify.svg" width="40" height="40" alt="Spotify" /></a>

@@ -1,115 +1,80 @@
-# Hello, world. I'm Ethan! 👋
+# Hello, world. I'm Ethan!👋
 
-### **_"You know..just over here designing & developing things!"_**
+I'd like to consider myself a Full-Stack Developer & Digital Product Designer who's constantly striving to find new excellence.
 
-- 🌍 Full Stack Developer in **Florida**.
-- 😄 My Pronouns are **He/Him**.
-- 🖥️ Here is my personal **_[Website](https://www.egxworld.net)_**.
-- ✉️ To contact me, here is my **_[Email](mailto:egarrisxn@gmail.com)_**.
-- 🤝 Open for **work** & **collaboration**!
-- ⚡ **2024 WILL BE MY YEAR!**
+<a href='mailto:egarrisxn@gmail.com'><img alt="Static Badge" src="https://img.shields.io/badge/Email-3d3d3d?style=plastic&logo=gmail"></a>
+<a href="https://linkedin.com/in/ethan-gx" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-3d3d3d?style=plastic&logo=linkedin"></a>
+<a href="https://discord.com/users/eg___xo" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Discord-3d3d3d?style=plastic&logo=discord"></a>
+<a href="https://read.cv/eg_xo" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Read.cv-3d3d3d?style=plastic&logo=readdotcv"></a>
+<a href="https://instagram.com/eg___xo" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-3d3d3d?style=plastic&logo=instagram"></a>
+<a href='https://x.com/eg__xo'><img alt="Static Badge" src="https://img.shields.io/badge/'Twitter'-3d3d3d?style=plastic&logo=x"></a>
+<a href="https://open.spotify.com/user/egarrisxn" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Spotify-3d3d3d?style=plastic&logo=spotify"></a>
 
-[![Visit Counter](https://komarev.com/ghpvc/?username=egarrisxn&style=flat-square&color=blue)](https://www.github.com/egarrisxn)
+<a href="https://egxworld.net" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/My_Website-3d3d3d?style=for-the-badge"></a> <a href="https://egxblog.net" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Personal_Blog-3d3d3d?style=for-the-badge"></a>
 
-## `Skills`
+[![Visit Counter](https://komarev.com/ghpvc/?username=egarrisxn&style=flat&color=blue)](https://www.github.com/egarrisxn)
 
-**_Just a few things i'm into._**
+---
 
-<table>
-  <tr>
-    <td>1. Web Design & Development</td>
-  </tr>
-  <tr>
-    <td>2. Project Management & Leadership</td>
-  </tr>
-  <tr>
-    <td>3. Team Collaboration & Communication</td>
-  </tr>
-  <tr>
-    <td>4. Responsive & Accessible UX/UI Design</td>
-  </tr>
-  <tr>
-    <td>5. Performance Optimization</td>
-  </tr>
-  <tr>
-    <td>6. SEO Implementation & Utilization</td>
-  </tr>
-  <tr>
-    <td>7. Agile Methodologies</td>
-  </tr>
-  <tr>
-    <td>8. RESTful API Design & Implementation</td>
-  </tr>
-  <tr>
-    <td>9. Object-Oriented Programming</td>
-  </tr>
-  <tr>
-    <td>10. Server Administration & Deployment</td>
-  </tr>
-  <tr>
-    <td>11. Database Design & Management</td>
-  </tr>
-  <tr>
-    <td>12. Continuous Integration & Delivery</td>
-  </tr>
-</table>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=egarrisxn&show_icons=true&rank_icon=github&include_all_commits=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  [![GitHub Streak](https://streak-stats.demolab.com?user=egarrisxn&theme=vision-friendly-dark)](https://github.com/denvercoder1/github-readme-streak-stats)
 
-## `Software`
+---
 
-**_Some languages, frameworks, & tools I've used._**
+#### Core Languages and Technologies
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/js.svg" width="40" height="40" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/ts.svg" width="40" height="40" alt="Typescript" /></a>
-<a href="https://www.html.com/html5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/html5.svg" width="40" height="40" alt="Html5" /></a>
-<a href="https://www.css3.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/css3.svg" width="40" height="40" alt="Css3" /></a>
-<a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/git.svg" width="40" height="40" alt="Git" /></a>
-<a href="https://pnpm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/pnpm.svg" width="40" height="40" alt="PNPM"/></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/webpack.svg" width="40" height="40" alt="Webpack" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/vite.svg" alt="Vite" width="40" height="40"/></a>
-<a href="https://eslint.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/eslint.svg" width="40" height="40" alt="ESLint"/></a>
-<a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/nodejs.svg" width="40" height="40" alt="NodeJS" /></a>
-<a href="https://www.deno.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/deno.svg" width="40" height="40" alt="Deno" /></a>
-<a href="https://www.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/react.svg" width="40" height="40" alt="React" /></a>
-<a href="https://www.angular.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/angular.svg" width="40" height="40" alt="Angular" /></a>
-<a href="https://www.nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/next.svg" width="40" height="40" alt="NextJS" /></a>
-<a href="https://www.astro.build/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/astro.svg" width="40" height="40" alt="Astro" /></a>
-<a href="https://www.jquery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/jquery.svg" width="40" height="40" alt="jQuery" /></a>
-<a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/alpine.svg" width="40" height="40" alt="Alpinejs" /></a>
-<a href="https://htmx.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/htmx.svg" width="40" height="40"  alt="HTMX" /></a>
-<a href="https://www.expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/express.svg" width="40" height="40" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/mongodb.svg" width="40" height="40" alt="MongoDB" /></a>
-<a href="https://www.graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/graphql.svg" width="40" height="40" alt="GraphQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/mysql.svg" width="40" height="40" alt="MySQL" /></a>
-<a href="https://www.sanity.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/sanity.svg" alt="Sanity" width="40" height="40"/></a>
-<a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/tailwindcss.svg" width="40" height="40" alt="TailwindCSS" /></a>
-<a href="https://www.getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/bootstrap.svg" width="40" height="40" alt="Bootstrap" /></a>
-<a href="https://www.vercel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/vercel.svg" width="40" height="40" alt="Vercel" /></a>
-<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/EGARRISXN/icons/main/skills/netlify.svg" alt="Netlify" width="40" height="40"/></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/egarrisxn/icons/main/skills/heroku.svg" width="40" height="40" alt="Heroku" /></a>
+[![HTML5](https://img.shields.io/badge/HTML5-3d3d3d?style=plastic&logo=html5)](https://html.com/html5/) [![CSS3](https://img.shields.io/badge/CSS3-3d3d3d?style=plastic&logo=css3)](https://css3.com/) [![JavaScript](https://img.shields.io/badge/JavaScript-3d3d3d?style=plastic&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/TypeScript-3d3d3d?style=plastic&logo=typescript)](https://typescriptlang.org/)
 
+#### Frameworks
 
-## `Socials`
+[![Next.js](https://img.shields.io/badge/Next.js-3d3d3d?style=plastic&logo=nextdotjs)](https://nextjs.org/) [![Express](https://img.shields.io/badge/Express.js-3d3d3d?style=plastic&logo=express)](https://expressjs.com/) [![Alpine.js](https://img.shields.io/badge/Alpine.js-3d3d3d?style=plastic&logo=alpinedotjs)](https://alpinejs.dev/) 
+[![Vue](https://img.shields.io/badge/Vue.js-3d3d3d?style=plastic&logo=vuedotjs)](https://vuejs.org/) [![Hono](https://img.shields.io/badge/Hono-3d3d3d?style=plastic&logo=hono)](https://hono.dev/) [![Angular](https://img.shields.io/badge/Angular-3d3d3d?style=plastic&logo=angular)](https://angular.dev/)  
 
-**_A glimpse into my life._**
+#### Libraries / Tooling
 
-<a href="https://www.x.com/eg__xo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/socials/x.svg" width="40" height="40" alt="X" /></a>
-<a href="https://www.instagram.com/eg___xo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/socials/instagram.svg" width="40" height="40" alt="Instagram" /></a>
-<a href="https://www.linkedin.com/in/ethan-gx/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>
-<a href="https://open.spotify.com/user/egarrisxn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/socials/spotify.svg" width="40" height="40" alt="Spotify" /></a>
-<a href="https://www.discord.com/users/eg___xo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/egarrisxn/icons/main/socials/discord.svg" width="40" height="40" alt="Discord" /></a>
+[![React](https://img.shields.io/badge/React-3d3d3d?style=plastic&logo=react)](https://react.dev/) [![jQuery](https://img.shields.io/badge/jQuery-3d3d3d?style=plastic&logo=jquery)](https://jquery.com/) [![Astro](https://img.shields.io/badge/Astro-3d3d3d?style=plastic&logo=astro)](https://astro.build/) [![HTMX](https://img.shields.io/badge/HTMX-3d3d3d?style=plastic&logo=htmx)](https://htmx.org/) [![Markdown](https://img.shields.io/badge/Markdown-3d3d3d?style=plastic&logo=markdown)](https://markdownguide.org/)
 
-## `Statistics`
+#### Bundlers
 
-**_Random GitHub tidbits._**
+[![Webpack](https://img.shields.io/badge/Webpack-3d3d3d?style=plastic&logo=webpack)](https://webpack.js.org/) [![Vite](https://img.shields.io/badge/Vite-3d3d3d?style=plastic&logo=vite)](https://vitejs.dev/)
 
-[![Egarrisxn's Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=egarrisxn&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+#### Runtimes
 
-[![Egarrisxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=egarrisxn&layout=compact&theme=vision-friendly-dark&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![NodeJS](https://img.shields.io/badge/Node.js-3d3d3d?style=plastic&logo=nodedotjs)](https://nodejs.org/) [![Deno](https://img.shields.io/badge/Deno-3d3d3d?style=plastic&logo=deno)](https://deno.com/)
 
-[![Egarrisxn's GitHub Streak](https://streak-stats.demolab.com?user=egarrisxn&theme=vision-friendly-dark)](https://github.com/denvercoder1/github-readme-streak-stats)
+#### Package Managers
 
-## `Support`
+[![NPM](https://img.shields.io/badge/NPM-3d3d3d?style=plastic&logo=npm)](https://npmjs.com/) [![PNPM](https://img.shields.io/badge/PNPM-3d3d3d?style=plastic&logo=pnpm)](https://pnpm.io/)
 
-**_If you like what I do._**
+#### Databases / Query Languages
 
-<a href="https://www.buymeacoffee.com/egarrisxn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
+[![MongoDB](https://img.shields.io/badge/MongoDB-3d3d3d?style=plastic&logo=mongodb)](https://mongodb.com/) [![MySQL](https://img.shields.io/badge/MySQL-3d3d3d?style=plastic&logo=mysql)](https://mysql.com/) [![GraphQL](https://img.shields.io/badge/GraphQL-3d3d3d?style=plastic&logo=graphql)](https://graphql.org/)
+
+#### Content Management Systems
+
+[![Sanity](https://img.shields.io/badge/Sanity-3d3d3d?style=plastic&logo=sanity)](https://sanity.io/)
+
+#### CSS Frameworks
+
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3d3d3d?style=plastic&logo=tailwindcss)](https://tailwindcss.com/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-3d3d3d?style=plastic&logo=bootstrap)](https://getbootstrap.com/)
+
+#### UX/UI Libraries
+
+[![ShadcnUI](https://img.shields.io/badge/Shadcn/ui-3d3d3d?style=plastic&logo=shadcnui)](https://ui.shadcn.com/) [![RadixUI](https://img.shields.io/badge/RadixUI-3d3d3d?style=plastic&logo=radixui)](https://radix-ui.com/) [![DaisyUI](https://img.shields.io/badge/DaisyUI-3d3d3d?style=plastic&logo=daisyui)](https://daisyui.com/) [![NextUI](https://img.shields.io/badge/NextUI-3d3d3d?style=plastic&logo=nextui)](https://nextui.org/)
+
+#### Utilities
+
+[![ESLint](https://img.shields.io/badge/ESLint-3d3d3d?style=plastic&logo=eslint)](https://eslint.org/) [![Prettier](https://img.shields.io/badge/Prettier-3d3d3d?style=plastic&logo=prettier)](https://prettier.io/)
+
+#### Version Control
+
+[![Git](https://img.shields.io/badge/Git-3d3d3d?style=plastic&logo=git)](https://git-scm.com/)
+
+#### Hosting / Deployments
+
+[![Vercel](https://img.shields.io/badge/Vercel-3d3d3d?style=plastic&logo=vercel)](https://vercel.com/) [![Netlify](https://img.shields.io/badge/Netlify-3d3d3d?style=plastic&logo=netlify)](https://netlify.com/) [![Heroku](https://img.shields.io/badge/Heroku-3d3d3d?style=plastic&logo=heroku)](https://heroku.com/) [![Heroku](https://img.shields.io/badge/GitHub_Pages-3d3d3d?style=plastic&logo=githubpages)](https://pages.github.com/)
+
+---
+
+<!-- [![Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=egarrisxn&show_icons=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- <a href="https://www.buymeacoffee.com/egarrisxn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="Buy Me A Coffee" /></a> -->

@@ -59,9 +59,9 @@ I'd like to consider myself a Full-Stack Developer & Digital Product Designer wh
 
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3d3d3d?style=plastic&logo=tailwindcss)](https://tailwindcss.com/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-3d3d3d?style=plastic&logo=bootstrap)](https://getbootstrap.com/)
 
-#### UX/UI Libraries
+<!-- #### UX/UI Libraries
 
-[![ShadcnUI](https://img.shields.io/badge/Shadcn/ui-3d3d3d?style=plastic&logo=shadcnui)](https://ui.shadcn.com/) [![RadixUI](https://img.shields.io/badge/RadixUI-3d3d3d?style=plastic&logo=radixui)](https://radix-ui.com/) [![DaisyUI](https://img.shields.io/badge/DaisyUI-3d3d3d?style=plastic&logo=daisyui)](https://daisyui.com/) [![NextUI](https://img.shields.io/badge/NextUI-3d3d3d?style=plastic&logo=nextui)](https://nextui.org/)
+[![ShadcnUI](https://img.shields.io/badge/Shadcn/ui-3d3d3d?style=plastic&logo=shadcnui)](https://ui.shadcn.com/) [![RadixUI](https://img.shields.io/badge/RadixUI-3d3d3d?style=plastic&logo=radixui)](https://radix-ui.com/) [![DaisyUI](https://img.shields.io/badge/DaisyUI-3d3d3d?style=plastic&logo=daisyui)](https://daisyui.com/) [![NextUI](https://img.shields.io/badge/NextUI-3d3d3d?style=plastic&logo=nextui)](https://nextui.org/) -->
 
 #### Utilities
 

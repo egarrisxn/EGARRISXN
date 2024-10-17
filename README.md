@@ -75,7 +75,4 @@ I'd like to consider myself a Full-Stack Developer & Digital Product Designer wh
 
 [![Vercel](https://img.shields.io/badge/Vercel-3d3d3d?style=plastic&logo=vercel)](https://vercel.com/) [![Netlify](https://img.shields.io/badge/Netlify-3d3d3d?style=plastic&logo=netlify)](https://netlify.com/) [![Heroku](https://img.shields.io/badge/Heroku-3d3d3d?style=plastic&logo=heroku)](https://heroku.com/) [![Heroku](https://img.shields.io/badge/GitHub_Pages-3d3d3d?style=plastic&logo=githubpages)](https://pages.github.com/)
 
----
-
-**2023 - FOREVER**
 <!-- <a href="https://www.buymeacoffee.com/egarrisxn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="Buy Me A Coffee" /></a> -->

@@ -1,4 +1,4 @@
-# Hello, world. I'm Ethan!👋
+## Hello, world. I'm Ethan!👨‍💻
 
 I'd like to consider myself a Full-Stack Developer & Digital Product Designer who's constantly striving to find new excellence.
 
@@ -77,4 +77,5 @@ I'd like to consider myself a Full-Stack Developer & Digital Product Designer wh
 
 ---
 
+**2023 - FOREVER**
 <!-- <a href="https://www.buymeacoffee.com/egarrisxn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="Buy Me A Coffee" /></a> -->

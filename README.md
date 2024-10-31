@@ -29,7 +29,7 @@ I'd like to consider myself a Full-Stack Developer & Digital Product Designer wh
 #### Frameworks
 
 [![Next.js](https://img.shields.io/badge/Next.js-3d3d3d?style=plastic&logo=nextdotjs)](https://nextjs.org/) [![Express](https://img.shields.io/badge/Express.js-3d3d3d?style=plastic&logo=express)](https://expressjs.com/) [![Alpine.js](https://img.shields.io/badge/Alpine.js-3d3d3d?style=plastic&logo=alpinedotjs)](https://alpinejs.dev/) 
-[![Vue](https://img.shields.io/badge/Vue.js-3d3d3d?style=plastic&logo=vuedotjs)](https://vuejs.org/) [![Hono](https://img.shields.io/badge/Hono-3d3d3d?style=plastic&logo=hono)](https://hono.dev/) [![Angular](https://img.shields.io/badge/Angular-3d3d3d?style=plastic&logo=angular)](https://angular.dev/)  
+ [![Hono](https://img.shields.io/badge/Hono-3d3d3d?style=plastic&logo=hono)](https://hono.dev/) [![Angular](https://img.shields.io/badge/Angular-3d3d3d?style=plastic&logo=angular)](https://angular.dev/)  
 
 #### Libraries / Tooling
 

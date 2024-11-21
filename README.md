@@ -49,7 +49,7 @@ I'd like to consider myself a Full-Stack Developer & Digital Product Designer wh
 
 #### Databases / Query Languages
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-3d3d3d?style=plastic&logo=mongodb)](https://mongodb.com/) [![MySQL](https://img.shields.io/badge/MySQL-3d3d3d?style=plastic&logo=mysql)](https://mysql.com/) [![GraphQL](https://img.shields.io/badge/GraphQL-3d3d3d?style=plastic&logo=graphql)](https://graphql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-3d3d3d?style=plastic&logo=mongodb)](https://mongodb.com/) [![MySQL](https://img.shields.io/badge/MySQL-3d3d3d?style=plastic&logo=mysql)](https://mysql.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3d3d3d?style=plastic&logo=postgresql)](https://mysql.com/) [![GraphQL](https://img.shields.io/badge/GraphQL-3d3d3d?style=plastic&logo=graphql)](https://graphql.org/) 
 
 #### Content Management Systems
 

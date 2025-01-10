@@ -10,15 +10,17 @@ I'd like to consider myself a Software Developer & Digital Product Designer who'
 <a href='https://x.com/eg__xo'><img alt="Static Badge" src="https://img.shields.io/badge/'Twitter'-3d3d3d?style=plastic&logo=x"></a>
 <a href="https://open.spotify.com/user/egarrisxn" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Spotify-3d3d3d?style=plastic&logo=spotify"></a>
 
-<a href="https://egxworld.net" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/My_Website-3d3d3d?style=for-the-badge"></a> <a href="https://egxblog.net" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Personal_Blog-3d3d3d?style=for-the-badge"></a>
+<a href="https://egxo.dev" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/My_Website-3d3d3d?style=for-the-badge"></a> <a href="https://egxo.fyi" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Personal_Blog-3d3d3d?style=for-the-badge"></a>
 
 [![Visit Counter](https://komarev.com/ghpvc/?username=egarrisxn&style=flat&color=blue)](https://www.github.com/egarrisxn)
 
 ---
 
-<!-- [![Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=egarrisxn&show_icons=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=egarrisxn&show_icons=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=egarrisxn&show_icons=true&rank_icon=github&include_all_commits=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=egarrisxn&theme=vision-friendly-dark)](https://github.com/denvercoder1/github-readme-streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=egarrisxn&show_icons=true&rank_icon=github&include_all_commits=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=egarrisxn&theme=vision-friendly-dark)](https://github.com/denvercoder1/github-readme-streak-stats) -->
 
 ---
 

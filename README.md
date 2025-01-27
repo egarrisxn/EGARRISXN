@@ -1,11 +1,12 @@
 ## Hello, World. I'm Ethan!
 
 <a href='mailto:egarrisxn@gmail.com'><img alt="Static Badge" src="https://img.shields.io/badge/Email-3d3d3d?style=plastic&logo=gmail"></a>
-<a href="https://linkedin.com/in/ethan-gx" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-3d3d3d?style=plastic&logo=linkedin"></a>
+<a href="https://linkedin.com/in/ethan-gx" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/in-LinkedIn-3d3d3d?style=plastic&labelColor=%232387CEEB"></a>
 <a href="https://discord.com/users/eg___xo" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Discord-3d3d3d?style=plastic&logo=discord"></a>
 <a href="https://read.cv/eg_xo" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Read.cv-3d3d3d?style=plastic&logo=readdotcv"></a>
 <a href="https://instagram.com/eg___xo" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-3d3d3d?style=plastic&logo=instagram"></a>
-<a href='https://x.com/eg__xo'><img alt="Static Badge" src="https://img.shields.io/badge/'Twitter'-3d3d3d?style=plastic&logo=x"></a>
+<a href="https://x.com/eg__xo"><img alt="Static Badge" src="https://img.shields.io/badge/'Twitter'-3d3d3d?style=plastic&logo=x"></a>
+<a href="https://bsky.app/profile/egxo.bsky.social" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/BlueSky-3d3d3d?style=plastic&logo=bluesky&logoColor=%2387CEEB"></a>
 <a href="https://open.spotify.com/user/egarrisxn" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Spotify-3d3d3d?style=plastic&logo=spotify"></a>
 
 <a href="https://egxo.dev" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/My_Website-3d3d3d?style=for-the-badge"></a> <a href="https://egxo.fyi" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Personal_Blog-3d3d3d?style=for-the-badge"></a>

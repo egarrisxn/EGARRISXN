@@ -1,6 +1,6 @@
 ## Hello, world. I'm Ethan!👨‍💻
 
-I'd like to consider myself a Software Developer & Digital Product Designer who's constantly striving to find new excellence.
+I'd like to consider myself a Full Stack Developer & Digital Product Designer who's constantly striving to find new excellence.
 
 <a href='mailto:egarrisxn@gmail.com'><img alt="Static Badge" src="https://img.shields.io/badge/Email-3d3d3d?style=plastic&logo=gmail"></a>
 <a href="https://linkedin.com/in/ethan-gx" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-3d3d3d?style=plastic&logo=linkedin"></a>
@@ -19,8 +19,6 @@ I'd like to consider myself a Software Developer & Digital Product Designer who'
 [![Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=egarrisxn&show_icons=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=egarrisxn&show_icons=true&rank_icon=github&include_all_commits=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=egarrisxn&theme=vision-friendly-dark)](https://github.com/denvercoder1/github-readme-streak-stats) -->
 
 ---
 

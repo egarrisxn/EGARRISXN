@@ -1,4 +1,4 @@
-## Hello, World.
+## Hello, World. I'm Ethan!
 
 <a href='mailto:egarrisxn@gmail.com'><img alt="Static Badge" src="https://img.shields.io/badge/Email-3d3d3d?style=plastic&logo=gmail"></a>
 <a href="https://linkedin.com/in/ethan-gx" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-3d3d3d?style=plastic&logo=linkedin"></a>

@@ -1,13 +1,16 @@
 ## Hello, World. I'm Ethan!
 
-<a href="https://linkedin.com/in/ethan-gx" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/in-LinkedIn-3d3d3d?style=plastic&labelColor=%232387CEEB"></a>
+<a href="https://linkedin.com/in/ethan-gx" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-3d3d3d?style=plastic&label=in&labelColor=%230072B1"></a>
+<a href='mailto:egarrisxn@gmail.com'><img alt="Static Badge" src="https://img.shields.io/badge/Email-3d3d3d?style=plastic&logo=gmail&logoColor=%23EA4335"></a>
+<a href='https://peerlist.io/eg_xo'><img alt="Static Badge" src="https://img.shields.io/badge/Peerlist-3d3d3d?style=plastic&logo=mastodon&logoColor=%2300AA45"></a>
 <a href="https://x.com/eg__xo"><img alt="Static Badge" src="https://img.shields.io/badge/Twitter(X)-3d3d3d?style=plastic&logo=x&logoColor=%23000000"></a>
-<a href="https://bsky.app/profile/egxo.bsky.social" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/BlueSky-3d3d3d?style=plastic&logo=bluesky&logoColor=%2387CEEB"></a>
 <a href="https://instagram.com/eg___xo" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-3d3d3d?style=plastic&logo=instagram&logoColor=%23FF7F7F"></a>
-<a href="https://discord.com/users/eg___xo" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Discord-3d3d3d?style=plastic&logo=discord"></a>
-<a href="https://read.cv/eg_xo" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Read.cv-3d3d3d?style=plastic&logo=readdotcv"></a>
-<a href="https://open.spotify.com/user/egarrisxn" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Spotify-3d3d3d?style=plastic&logo=spotify"></a>
-<a href='mailto:egarrisxn@gmail.com'><img alt="Static Badge" src="https://img.shields.io/badge/Email-3d3d3d?style=plastic&logo=gmail"></a>
+<a href="https://read.cv/eg_xo" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Read.cv-3d3d3d?style=plastic&logo=readdotcv&logoColor=%23111111"></a>
+<a href="https://bsky.app/profile/egxo.bsky.social" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/BlueSky-3d3d3d?style=plastic&logo=bluesky&logoColor=%2387CEEB"></a>
+<a href="https:/threads.net/@eg___xo" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Threads-3d3d3d?style=plastic&logo=threads&logoColor=%23000000"></a>
+<a href='https://mastodon.social/@eg_Xo'><img alt="Static Badge" src="https://img.shields.io/badge/Mastadon-3d3d3d?style=plastic&logo=mastodon&logoColor=%236364FF"></a>
+<a href="https://open.spotify.com/user/egarrisxn" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Spotify-3d3d3d?style=plastic&logo=spotify&logoColor=%231ED760"></a>
+<a href="https://discord.com/users/eg___xo" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Discord-3d3d3d?style=plastic&logo=discord&logoColor=%235865F2"></a>
 
 <a href="https://egxo.dev" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/My_Website-3d3d3d?style=for-the-badge"></a> <a href="https://egxo.fyi" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Personal_Blog-3d3d3d?style=for-the-badge"></a>
 

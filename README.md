@@ -5,7 +5,6 @@
 <a href='https://peerlist.io/eg_xo'><img alt="Static Badge" src="https://img.shields.io/badge/Peerlist-3d3d3d?style=plastic&logo=mastodon&logoColor=%2300AA45"></a>
 <a href="https://x.com/eg__xo"><img alt="Static Badge" src="https://img.shields.io/badge/Twitter(X)-3d3d3d?style=plastic&logo=x&logoColor=%23000000"></a>
 <a href="https://instagram.com/eg___xo" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-3d3d3d?style=plastic&logo=instagram&logoColor=%23FF7F7F"></a>
-<a href="https://read.cv/eg_xo" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Read.cv-3d3d3d?style=plastic&logo=readdotcv&logoColor=%23111111"></a>
 <a href="https://bsky.app/profile/egxo.bsky.social" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/BlueSky-3d3d3d?style=plastic&logo=bluesky&logoColor=%2387CEEB"></a>
 <a href="https:/threads.net/@eg___xo" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Threads-3d3d3d?style=plastic&logo=threads&logoColor=%23000000"></a>
 <a href='https://mastodon.social/@eg_Xo'><img alt="Static Badge" src="https://img.shields.io/badge/Mastadon-3d3d3d?style=plastic&logo=mastodon&logoColor=%236364FF"></a>

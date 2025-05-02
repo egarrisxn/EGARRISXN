@@ -26,7 +26,6 @@
   👯 Follow my journey on all social platforms<br/>
   📫 Reach out by email at <a href="mailto:egarrisxn@gmail.com">egarrisxn@gmail.com</a><br/>
   </h5>
- <br/>
  <img alt="Spotify Recently Played" width="350" src="https://spotify-recently-played-readme.vercel.app/api?user=egarrisxn&count=1&width=350" />
 </div>
 <div>

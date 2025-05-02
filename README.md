@@ -19,18 +19,18 @@
 </div>
 <div>
  <img align="right" alt="Character with computer" width="360" src="https://github.com/user-attachments/assets/210765c6-c601-413b-9a55-d6d60c11823c" />
- <h3>🃏 A Little About Me</h3>
-  <h5>
+ <h3>🃏 <b>A Little About Me</b></h3>
+  <p>
   ✨ Full Stack Developer & Digital Product Designer<br/>
   ⚡ Learn more over at <a href="https://egxo.dev">egxo.dev</a> and <a href="https://egxo.fyi">egxo.fyi</a><br/>
   👯 Follow my journey on all social platforms<br/>
   📫 Reach out by email at <a href="mailto:egarrisxn@gmail.com">egarrisxn@gmail.com</a><br/>
-  </h5>
+  </p>
  <img alt="Spotify Recently Played" width="350" src="https://spotify-recently-played-readme.vercel.app/api?user=egarrisxn&count=1&width=350" />
 </div>
 <div>
- <h3>💾 Technologies In Use</h3>
- <h5>Frequently <i>(at least once per day)</i></h5>
+ <h3>💾 <b>Technologies In Use</b></h3>
+ <p>Frequently <i>(at least once per day)</i></p>
   <img src="https://img.shields.io/badge/Git-3d3d3d?style=plastic&logo=git" />
   <img src="https://img.shields.io/badge/Node-3d3d3d?style=plastic&logo=nodedotjs" />
   <img src="https://img.shields.io/badge/PNPM-3d3d3d?style=plastic&logo=pnpm" />
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/ESLint-3d3d3d?style=plastic&logo=eslint" />
   <img src="https://img.shields.io/badge/Prettier-3d3d3d?style=plastic&logo=prettier" />
   <img src="https://img.shields.io/badge/Vercel-3d3d3d?style=plastic&logo=vercel" />
- <h5>Occasionaly <i>(more than once per week)</i></h5>
+ <p>Occasionaly <i>(more than once per week)</i></p>
   <img src="https://img.shields.io/badge/HTML5-3d3d3d?style=plastic&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-3d3d3d?style=plastic&logo=css3" />
   <img src="https://img.shields.io/badge/NPM-3d3d3d?style=plastic&logo=npm" />
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/Express-3d3d3d?style=plastic&logo=express" />
   <img src="https://img.shields.io/badge/Markdown-3d3d3d?style=plastic&logo=markdown" />
   <img src="https://img.shields.io/badge/Netlify-3d3d3d?style=plastic&logo=netlify" />
- <h5>Rarely <i>(less than once per month)</i></h5>
+ <p>Rarely <i>(less than once per month)</i></p>
   <img src="https://img.shields.io/badge/Deno-3d3d3d?style=plastic&logo=deno" />
   <img src="https://img.shields.io/badge/jQuery-3d3d3d?style=plastic&logo=jquery" />
   <img src="https://img.shields.io/badge/Webpack-3d3d3d?style=plastic&logo=webpack" />
@@ -69,12 +69,12 @@
   <img src="https://img.shields.io/badge/Heroku-3d3d3d?style=plastic&logo=heroku" />
 </div>
 <div>
- <h3>📈 GitHub Analytics</h3>
+ <h3>📈 <b>GitHub Analytics</b></h3>
  <img alt="Languages Graph" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=egarrisxn&theme=dracula&layout=compact&hide_border=true&border_radius=5&locale=en&langs_count=5&hide_title=false&card_width=350" /><br/>
  <img alt="GitHub Streak" width="350" src="https://streak-stats.demolab.com?user=egarrisxn&theme=dracula&hide_border=true&border_radius=5&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&card_width=350" />
 </div>
 <div>
- <h3>😶‍🌫️ Don't Forget..</h3>
+ <h3>😶‍🌫️ <b>Don't Forget..</b></h3>
  <img alt="Readme Quote" width="350" src="https://quotes-github-readme.vercel.app/api?theme=dracula&quote=%E2%80%9CYou%20miss%20100%25%20of%20the%20shots%20you%20don%E2%80%99t%20take.%E2%80%9D%20%E2%80%93%20Wayne%20Gretzky&author=Michael%20Scott" />
 </div>
 <hr/>

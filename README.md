@@ -25,10 +25,9 @@
 </div>
 
 <div>
- <img align="right" alt="Readme Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%E2%80%9CYou%20miss%20100%25%20of%20the%20shots%20you%20don%E2%80%99t%20take.%E2%80%9D%20%E2%80%93%20Wayne%20Gretzky&author=Michael%20Scott" />
  <img align="right" alt="Character with computer" width="420" src="https://github.com/user-attachments/assets/210765c6-c601-413b-9a55-d6d60c11823c" />
- <h3>
-  👨🏻‍💻 A Little About Me
+ <h3 align="left">
+  🃏 A Little About Me
  </h3>
  <p>
   ✨ Full Stack Developer & Digital Product Designer<br/>
@@ -42,7 +41,7 @@
 <div>
  <br/>
  <h3>
-  🛠 Technologies Used
+  💾 Technologies Used
  </h3>
  <p>
   <img src="https://img.shields.io/badge/HTML5-3d3d3d?style=plastic&logo=html5" />
@@ -84,13 +83,23 @@
 <div>
  <br/>
  <h3>
-  ⚙️ GitHub Analytics
+  📈 GitHub Analytics
  </h3>
  <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egarrisxn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
   <img src="https://streak-stats.demolab.com?user=egarrisxn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
  </p>
  <br/>
+</div>
+
+<div>
+ <br/>
+ <h3>
+  😶‍🌫️ Quick Remember
+ </h3>
+ <p>
+  <img alt="Readme Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=%E2%80%9CYou%20miss%20100%25%20of%20the%20shots%20you%20don%E2%80%99t%20take.%E2%80%9D%20%E2%80%93%20Wayne%20Gretzky&author=Michael%20Scott" />
+ </p>
 </div>
 
 <hr/>

@@ -25,8 +25,8 @@
 </div>
 
 <div>
- <img alt="Illustration" align="right" width="420" src="https://github.com/user-attachments/assets/210765c6-c601-413b-9a55-d6d60c11823c">
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%E2%80%9CYou%20miss%20100%25%20of%20the%20shots%20you%20don%E2%80%99t%20take.%E2%80%9D%20%E2%80%93%20Wayne%20Gretzky&author=Michael%20Scott" align="right" alt="Readme Quote" />
+ <img align="right" alt="Readme Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%E2%80%9CYou%20miss%20100%25%20of%20the%20shots%20you%20don%E2%80%99t%20take.%E2%80%9D%20%E2%80%93%20Wayne%20Gretzky&author=Michael%20Scott" />
+ <img align="right" alt="Character with computer" width="420" src="https://github.com/user-attachments/assets/210765c6-c601-413b-9a55-d6d60c11823c" />
  <h3>
   👨🏻‍💻 A Little About Me
  </h3>

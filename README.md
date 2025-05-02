@@ -20,55 +20,61 @@
 <div>
  <img align="right" alt="Character with computer" width="350" src="https://github.com/user-attachments/assets/210765c6-c601-413b-9a55-d6d60c11823c" />
  <h3>🃏 A Little About Me</h3>
-  ✨ Full Stack Developer & Product Designer<br/>
-  ⚡ Learn more at <a href="https://egxo.dev">egxo.dev</a> or <a href="https://egxo.fyi">egxo.fyi</a><br/>
-  👯 Follow my journey on THE social media<br/>
-  📫 Best way to connect: <a href="mailto:egarrisxn@gmail.com">egarrisxn@gmail.com</a><br/>
+  <h5>
+  ✨ Full Stack Developer & Digital Product Designer<br/>
+  ⚡ Learn more over at <a href="https://egxo.dev">egxo.dev</a> and <a href="https://egxo.fyi">egxo.fyi</a><br/>
+  👯 Follow my journey on all social platforms<br/>
+  📫 Reach out by email at <a href="mailto:egarrisxn@gmail.com">egarrisxn@gmail.com</a><br/>
+  </h5>
  <br/>
  <img alt="Spotify Recently Played" width="350" src="https://spotify-recently-played-readme.vercel.app/api?user=egarrisxn&count=1&width=350" />
 </div>
 <div>
  <br/>
- <h3>💾 Technologies Used</h3>
-  <img src="https://img.shields.io/badge/HTML5-3d3d3d?style=plastic&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-3d3d3d?style=plastic&logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-3d3d3d?style=plastic&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-3d3d3d?style=plastic&logo=typescript" />
-  <img src="https://img.shields.io/badge/React-3d3d3d?style=plastic&logo=react" />
-  <img src="https://img.shields.io/badge/Next-3d3d3d?style=plastic&logo=nextdotjs" />
+ <h3>💾 Technologies In Use</h3>
+ <h5>Frequently <i>(at least once per day)</i></h5>
+  <img src="https://img.shields.io/badge/Git-3d3d3d?style=plastic&logo=git" />
   <img src="https://img.shields.io/badge/Node-3d3d3d?style=plastic&logo=nodedotjs" />
-  <img src="https://img.shields.io/badge/Sanity-3d3d3d?style=plastic&logo=sanity" />
+  <img src="https://img.shields.io/badge/PNPM-3d3d3d?style=plastic&logo=pnpm" />
+  <img src="https://img.shields.io/badge/TypeScript-3d3d3d?style=plastic&logo=typescript" />
+  <img src="https://img.shields.io/badge/JavaScript-3d3d3d?style=plastic&logo=javascript" />
+  <img src="https://img.shields.io/badge/Next-3d3d3d?style=plastic&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/React-3d3d3d?style=plastic&logo=react" />
   <img src="https://img.shields.io/badge/Supabase-3d3d3d?style=plastic&logo=supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-3d3d3d?style=plastic&logo=postgresql" />
-  <img src="https://img.shields.io/badge/MongoDB-3d3d3d?style=plastic&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Git-3d3d3d?style=plastic&logo=git" />
-  <img src="https://img.shields.io/badge/NPM-3d3d3d?style=plastic&logo=npm" />
-  <img src="https://img.shields.io/badge/PNPM-3d3d3d?style=plastic&logo=pnpm" />
-  <img src="https://img.shields.io/badge/Astro-3d3d3d?style=plastic&logo=astro" />
-  <img src="https://img.shields.io/badge/Zod-3d3d3d?style=plastic&logo=zod" />
+  <img src="https://img.shields.io/badge/Sanity-3d3d3d?style=plastic&logo=sanity" />
   <img src="https://img.shields.io/badge/Tailwind-3d3d3d?style=plastic&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Radix-3d3d3d?style=plastic&logo=radixui" />
+  <img src="https://img.shields.io/badge/Zod-3d3d3d?style=plastic&logo=zod" />
+  <img src="https://img.shields.io/badge/MDX-3d3d3d?style=plastic&logo=mdx" />
   <img src="https://img.shields.io/badge/ESLint-3d3d3d?style=plastic&logo=eslint" />
   <img src="https://img.shields.io/badge/Prettier-3d3d3d?style=plastic&logo=prettier" />
-  <img src="https://img.shields.io/badge/Markdown-3d3d3d?style=plastic&logo=markdown" />
-  <img src="https://img.shields.io/badge/MDX-3d3d3d?style=plastic&logo=mdx" />
-  <img src="https://img.shields.io/badge/Vite-3d3d3d?style=plastic&logo=vite" />
   <img src="https://img.shields.io/badge/Vercel-3d3d3d?style=plastic&logo=vercel" />
-  <img src="https://img.shields.io/badge/Netlify-3d3d3d?style=plastic&logo=netlify" />
+ <h5>Occasionaly <i>(more than once per week)</i></h5>
+  <img src="https://img.shields.io/badge/HTML5-3d3d3d?style=plastic&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-3d3d3d?style=plastic&logo=css3" />
+  <img src="https://img.shields.io/badge/NPM-3d3d3d?style=plastic&logo=npm" />
+  <img src="https://img.shields.io/badge/Vite-3d3d3d?style=plastic&logo=vite" />
+  <img src="https://img.shields.io/badge/Astro-3d3d3d?style=plastic&logo=astro" />
+  <img src="https://img.shields.io/badge/MongoDB-3d3d3d?style=plastic&logo=mongodb" />
   <img src="https://img.shields.io/badge/Express-3d3d3d?style=plastic&logo=express" />
+  <img src="https://img.shields.io/badge/Markdown-3d3d3d?style=plastic&logo=markdown" />
+  <img src="https://img.shields.io/badge/Netlify-3d3d3d?style=plastic&logo=netlify" />
+ <h5>Rarely <i>(less than once per month)</i></h5>
   <img src="https://img.shields.io/badge/Deno-3d3d3d?style=plastic&logo=deno" />
+  <img src="https://img.shields.io/badge/jQuery-3d3d3d?style=plastic&logo=jquery" />
+  <img src="https://img.shields.io/badge/Webpack-3d3d3d?style=plastic&logo=webpack" />
+  <img src="https://img.shields.io/badge/Angular-3d3d3d?style=plastic&logo=angular" />
   <img src="https://img.shields.io/badge/MySQL-3d3d3d?style=plastic&logo=mysql" />
   <img src="https://img.shields.io/badge/GraphQL-3d3d3d?style=plastic&logo=graphql" />
-  <img src="https://img.shields.io/badge/Heroku-3d3d3d?style=plastic&logo=heroku" />
-  <img src="https://img.shields.io/badge/Webpack-3d3d3d?style=plastic&logo=webpack" />
-  <img src="https://img.shields.io/badge/jQuery-3d3d3d?style=plastic&logo=jquery" />
   <img src="https://img.shields.io/badge/Bootstrap-3d3d3d?style=plastic&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/Heroku-3d3d3d?style=plastic&logo=heroku" />
 </div>
 <div>
  <br/>
  <h3>📈 GitHub Analytics</h3>
-   <img alt="Languages Graph" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=egarrisxn&theme=dracula&layout=compact&hide_border=true&border_radius=5&locale=en&langs_count=5&hide_title=false&card_width=350" /><br/>
-  <img alt="GitHub Streak" width="350" src="https://streak-stats.demolab.com?user=egarrisxn&theme=dracula&hide_border=true&border_radius=5&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&card_width=350" />
+ <img alt="Languages Graph" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=egarrisxn&theme=dracula&layout=compact&hide_border=true&border_radius=5&locale=en&langs_count=5&hide_title=false&card_width=350" /><br/>
+ <img alt="GitHub Streak" width="350" src="https://streak-stats.demolab.com?user=egarrisxn&theme=dracula&hide_border=true&border_radius=5&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&card_width=350" />
 </div>
 <div>
  <br/>

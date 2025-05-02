@@ -48,35 +48,35 @@
   <img src="https://img.shields.io/badge/CSS3-3d3d3d?style=plastic&logo=css3" />
   <img src="https://img.shields.io/badge/JavaScript-3d3d3d?style=plastic&logo=javascript" />
   <img src="https://img.shields.io/badge/TypeScript-3d3d3d?style=plastic&logo=typescript" />
-  <img src="https://img.shields.io/badge/Next.js-3d3d3d?style=plastic&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/Express.js-3d3d3d?style=plastic&logo=express" />
-  <img src="https://img.shields.io/badge/Angular-3d3d3d?style=plastic&logo=angular" />
-  <img src="https://img.shields.io/badge/Alpine.js-3d3d3d?style=plastic&logo=alpinedotjs" />
-  <img src="https://img.shields.io/badge/Hono-3d3d3d?style=plastic&logo=hono" />
-  <img src="https://img.shields.io/badge/Node.js-3d3d3d?style=plastic&logo=nodedotjs" />
-  <img src="https://img.shields.io/badge/Deno-3d3d3d?style=plastic&logo=deno" />
   <img src="https://img.shields.io/badge/React-3d3d3d?style=plastic&logo=react" />
-  <img src="https://img.shields.io/badge/jQuery-3d3d3d?style=plastic&logo=jquery" />
-  <img src="https://img.shields.io/badge/Astro-3d3d3d?style=plastic&logo=astro" />
-  <img src="https://img.shields.io/badge/HTMX-3d3d3d?style=plastic&logo=htmx" />
-  <img src="https://img.shields.io/badge/Markdown-3d3d3d?style=plastic&logo=markdown" />
-  <img src="https://img.shields.io/badge/MongoDB-3d3d3d?style=plastic&logo=mongodb" />
-  <img src="https://img.shields.io/badge/MySQL-3d3d3d?style=plastic&logo=mysql" />
+  <img src="https://img.shields.io/badge/Next-3d3d3d?style=plastic&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Node-3d3d3d?style=plastic&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/Sanity-3d3d3d?style=plastic&logo=sanity" />
+  <img src="https://img.shields.io/badge/Supabase-3d3d3d?style=plastic&logo=supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-3d3d3d?style=plastic&logo=postgresql" />
-  <img src="https://img.shields.io/badge/GraphQL-3d3d3d?style=plastic&logo=graphql" />
-  <img src="https://img.shields.io/badge/ESLint-3d3d3d?style=plastic&logo=eslint" />
-  <img src="https://img.shields.io/badge/Prettier-3d3d3d?style=plastic&logo=prettier" />
+  <img src="https://img.shields.io/badge/MongoDB-3d3d3d?style=plastic&logo=mongodb" />
   <img src="https://img.shields.io/badge/Git-3d3d3d?style=plastic&logo=git" />
   <img src="https://img.shields.io/badge/NPM-3d3d3d?style=plastic&logo=npm" />
   <img src="https://img.shields.io/badge/PNPM-3d3d3d?style=plastic&logo=pnpm" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-3d3d3d?style=plastic&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Bootstrap-3d3d3d?style=plastic&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/Webpack-3d3d3d?style=plastic&logo=webpack" />
+  <img src="https://img.shields.io/badge/Astro-3d3d3d?style=plastic&logo=astro" />
+  <img src="https://img.shields.io/badge/Zod-3d3d3d?style=plastic&logo=zod" />
+  <img src="https://img.shields.io/badge/Tailwind-3d3d3d?style=plastic&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Radix-3d3d3d?style=plastic&logo=radixui" />
+  <img src="https://img.shields.io/badge/ESLint-3d3d3d?style=plastic&logo=eslint" />
+  <img src="https://img.shields.io/badge/Prettier-3d3d3d?style=plastic&logo=prettier" />
+  <img src="https://img.shields.io/badge/Markdown-3d3d3d?style=plastic&logo=markdown" />
+  <img src="https://img.shields.io/badge/MDX-3d3d3d?style=plastic&logo=mdx" />
   <img src="https://img.shields.io/badge/Vite-3d3d3d?style=plastic&logo=vite" />
   <img src="https://img.shields.io/badge/Vercel-3d3d3d?style=plastic&logo=vercel" />
   <img src="https://img.shields.io/badge/Netlify-3d3d3d?style=plastic&logo=netlify" />
+  <img src="https://img.shields.io/badge/Express-3d3d3d?style=plastic&logo=express" />
+  <img src="https://img.shields.io/badge/Deno-3d3d3d?style=plastic&logo=deno" />
+  <img src="https://img.shields.io/badge/MySQL-3d3d3d?style=plastic&logo=mysql" />
+  <img src="https://img.shields.io/badge/GraphQL-3d3d3d?style=plastic&logo=graphql" />
   <img src="https://img.shields.io/badge/Heroku-3d3d3d?style=plastic&logo=heroku" />
-  <img src="https://img.shields.io/badge/GitHub_Pages-3d3d3d?style=plastic&logo=githubpages" />
+  <img src="https://img.shields.io/badge/Webpack-3d3d3d?style=plastic&logo=webpack" />
+  <img src="https://img.shields.io/badge/jQuery-3d3d3d?style=plastic&logo=jquery" />
+  <img src="https://img.shields.io/badge/Bootstrap-3d3d3d?style=plastic&logo=bootstrap" />
  </p>
 </div>
 

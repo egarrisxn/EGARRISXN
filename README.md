@@ -111,3 +111,7 @@
   </strong>
  </p>
 </div>
+
+ <img alt="Readme Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=%E2%80%9CYou%20miss%20100%25%20of%20the%20shots%20you%20don%E2%80%99t%20take.%E2%80%9D%20%E2%80%93%20Wayne%20Gretzky&author=Michael%20Scott" />
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=egarrisxn&count=1" alt="Spotify Recently Played" />

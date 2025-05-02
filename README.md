@@ -14,8 +14,8 @@
   <a href="https://bsky.app/profile/egxo.bsky.social" target="_blank" rel="noreferrer"><img alt="BlueSky" src="https://img.shields.io/badge/BlueSky-3d3d3d?style=flat&logo=bluesky&logoColor=%2387CEEB"></a>
   <a href="https://discord.com/users/eg___xo" target="_blank" rel="noreferrer"><img alt="Discord" src="https://img.shields.io/badge/Discord-3d3d3d?style=flat&logo=discord&logoColor=%235865F2"></a>
   <a href="https://threads.net/@eg___xo" target="_blank" rel="noreferrer"><img alt="Threads" src="https://img.shields.io/badge/Threads-3d3d3d?style=flat&logo=threads&logoColor=%23000000"></a>
-  <a href='https://mastodon.social/@eg_Xo'><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-3d3d3d?style=flat&logo=mastodon&logoColor=%236364FF"></a>
   <a href='https://peerlist.io/eg_xo'><img alt="Peerlist" src="https://img.shields.io/badge/Peerlist-3d3d3d?style=flat&logo=peerlist&logoColor=%2300AA45"></a>
+  <a href='https://mastodon.social/@eg_Xo'><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-3d3d3d?style=flat&logo=mastodon&logoColor=%236364FF"></a>
 </div>
 <br/>
 <div>

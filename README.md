@@ -35,7 +35,7 @@
   👯 Follow my journey on THE social media<br/>
   📫 Best way to connect: <a href="mailto:egarrisxn@gmail.com">egarrisxn@gmail.com</a><br/>
 </p>
- <img src="https://spotify-recently-played-readme.vercel.app/api?user=egarrisxn&count=1" alt="Spotify Recently Played" />
+ <img src="https://spotify-recently-played-readme.vercel.app/api?user=egarrisxn&count=1&width=300" alt="Spotify Recently Played" />
 </div>
 
 <div>
@@ -97,7 +97,7 @@
   😶‍🌫️ Don't Forget..
  </h3>
  <p>
-  <img alt="Readme Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=%E2%80%9CYou%20miss%20100%25%20of%20the%20shots%20you%20don%E2%80%99t%20take.%E2%80%9D%20%E2%80%93%20Wayne%20Gretzky&author=Michael%20Scott" />
+  <img alt="Readme Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=dark&?border=true&?quote=%E2%80%9CYou%20miss%20100%25%20of%20the%20shots%20you%20don%E2%80%99t%20take.%E2%80%9D%20%E2%80%93%20Wayne%20Gretzky&?author=Michael%20Scott" />
  </p>
 </div>
 
@@ -112,6 +112,6 @@
  </p>
 </div>
 
-<img alt="Readme Quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true&quote=%E2%80%9CYou%20miss%20100%25%20of%20the%20shots%20you%20don%E2%80%99t%20take.%E2%80%9D%20%E2%80%93%20Wayne%20Gretzky&author=Michael%20Scott" />
+<img alt="Readme Quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&?theme=dark&?border=true&?quote=%E2%80%9CYou%20miss%20100%25%20of%20the%20shots%20you%20don%E2%80%99t%20take.%E2%80%9D%20%E2%80%93%20Wayne%20Gretzky&?author=Michael%20Scott" />
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=egarrisxn&count=3" alt="Spotify Recently Played" />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=egarrisxn&count=3&width=300" alt="Spotify Recently Played" />

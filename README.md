@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/ESLint-3d3d3d?style=plastic&logo=eslint" />
   <img src="https://img.shields.io/badge/Prettier-3d3d3d?style=plastic&logo=prettier" />
   <img src="https://img.shields.io/badge/Vercel-3d3d3d?style=plastic&logo=vercel" />
+ <br/><br/>
  <p>Occasionaly <i>(more than once per week)</i></p>
   <img src="https://img.shields.io/badge/HTML5-3d3d3d?style=plastic&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-3d3d3d?style=plastic&logo=css3" />
@@ -58,6 +59,7 @@
   <img src="https://img.shields.io/badge/Express-3d3d3d?style=plastic&logo=express" />
   <img src="https://img.shields.io/badge/Markdown-3d3d3d?style=plastic&logo=markdown" />
   <img src="https://img.shields.io/badge/Netlify-3d3d3d?style=plastic&logo=netlify" />
+ <br/><br/>
  <p>Rarely <i>(less than once per month)</i></p>
   <img src="https://img.shields.io/badge/Deno-3d3d3d?style=plastic&logo=deno" />
   <img src="https://img.shields.io/badge/jQuery-3d3d3d?style=plastic&logo=jquery" />

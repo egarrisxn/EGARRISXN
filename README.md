@@ -1,5 +1,5 @@
 <div>
- <img src="https://komarev.com/ghpvc/?username=egarrisxn&style=flat&color=blue" alt="Visit Counter" height="20"  align="right" />
+ <img src="https://komarev.com/ghpvc/?username=egarrisxn&style=flat&color=blue" alt="Visit Counter" height="20" align="right" />
 </div>
 <br/>
 <div>
@@ -19,14 +19,14 @@
 </div>
 <br/>
 <div>
- <img src="https://github.com/user-attachments/assets/210765c6-c601-413b-9a55-d6d60c11823c"  alt="Animated character working on a laptop" width="350" align="right" />
+ <img src="https://github.com/user-attachments/assets/210765c6-c601-413b-9a55-d6d60c11823c" alt="Animated character working on a laptop" width="400" align="right" />
   <p>
 I'm a <b>Full Stack Developer</b> & <b>Digital Product Designer</b> focused on building experiences that are as intuitive as they are innovative. I’m continually mastering the tools and frameworks that power the modern web, all while simplifying complex systems and making them more accessible. You can explore more of my work at <a href="https://egxo.dev">egxo.dev</a> or <a href="https://egxo.fyi">egxo.fyi</a>, and follow my journey across the many corners of the internet. Also, if you'd like to get in touch, feel free to reach out via email at <a href="mailto:egarrisxn@gmail.com">egarrisxn@gmail.com</a>.
   </p>
  <img src="https://spotify-recently-played-readme.vercel.app/api?user=egarrisxn&count=1&width=350" alt="Spotify Recently Played" width="350" />
 </div>
 <div>
- <h3>💾 <b>Technologies In Use</b></h3>
+ <h3>💾 <b>Technologies I Use</b></h3>
  <p>Frequently <i>(at least once a day)</i></p>
   <img src="https://img.shields.io/badge/TypeScript-3d3d3d?style=flat&logo=typescript" />
   <img src="https://img.shields.io/badge/JavaScript-3d3d3d?style=flat&logo=javascript" />
@@ -74,13 +74,14 @@ I'm a <b>Full Stack Developer</b> & <b>Digital Product Designer</b> focused on b
   <img src="https://img.shields.io/badge/Sequelize-3d3d3d?style=flat&logo=sequelize" />
   <img src="https://img.shields.io/badge/MySQL-3d3d3d?style=flat&logo=mysql" />
 </div>
+<br/>
 <div>
  <h3>📈 <b>GitHub Analytics</b></h3>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egarrisxn&theme=dracula&layout=compact&hide_border=true&border_radius=5&locale=en&langs_count=5&hide_title=false&card_width=350" alt="Languages Graph" width="350" /><br/>
  <img src="https://streak-stats.demolab.com?user=egarrisxn&theme=dracula&hide_border=true&border_radius=5&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&card_width=350" alt="GitHub Streak" width="350" />
 </div>
 <div>
- <h3>😶‍🌫️ <b>Don't Forget..</b></h3>
+ <h3>😶‍🌫️ <b>Always Remember..</b></h3>
  <img src="https://quotes-github-readme.vercel.app/api?theme=dracula&quote=%E2%80%9CYou%20miss%20100%25%20of%20the%20shots%20you%20don%E2%80%99t%20take.%E2%80%9D%20%E2%80%93%20Wayne%20Gretzky&author=Michael%20Scott" alt="Readme Quote" width="350" />
 </div>
 <hr/>

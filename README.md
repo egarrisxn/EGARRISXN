@@ -25,7 +25,7 @@
 </div>
 
 <div>
- <img align="right" alt="Character with computer" width="420" src="https://github.com/user-attachments/assets/210765c6-c601-413b-9a55-d6d60c11823c" />
+ <img align="right" alt="Character with computer" width="400" src="https://github.com/user-attachments/assets/210765c6-c601-413b-9a55-d6d60c11823c" />
  <h3 align="left">
   🃏 A Little About Me
  </h3>

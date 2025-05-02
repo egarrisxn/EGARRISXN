@@ -34,7 +34,7 @@
   ⚡ Learn more at <a href="https://egxo.dev">egxo.dev</a> or <a href="https://egxo.fyi">egxo.fyi</a><br/>
   👯 Follow my journey on THE social media<br/>
   📫 Best way to connect: <a href="mailto:egarrisxn@gmail.com">egarrisxn@gmail.com</a><br/>
-</p><br/>
+</p>
  <img src="https://spotify-recently-played-readme.vercel.app/api?user=egarrisxn&count=1" alt="Spotify Recently Played" />
 </div>
 
@@ -89,13 +89,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egarrisxn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
   <img src="https://streak-stats.demolab.com?user=egarrisxn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
  </p>
- <br/>
 </div>
 
 <div>
  <br/>
  <h3>
-  😶‍🌫️ Quick Remember
+  😶‍🌫️ Don't Forget..
  </h3>
  <p>
   <img alt="Readme Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=%E2%80%9CYou%20miss%20100%25%20of%20the%20shots%20you%20don%E2%80%99t%20take.%E2%80%9D%20%E2%80%93%20Wayne%20Gretzky&author=Michael%20Scott" />

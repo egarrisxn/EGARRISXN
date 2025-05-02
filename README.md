@@ -46,7 +46,6 @@
   <img src="https://img.shields.io/badge/Tailwind-3d3d3d?style=plastic&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Radix-3d3d3d?style=plastic&logo=radixui" />
   <img src="https://img.shields.io/badge/Zod-3d3d3d?style=plastic&logo=zod" />
-  <img src="https://img.shields.io/badge/MDX-3d3d3d?style=plastic&logo=mdx" />
   <img src="https://img.shields.io/badge/ESLint-3d3d3d?style=plastic&logo=eslint" />
   <img src="https://img.shields.io/badge/Prettier-3d3d3d?style=plastic&logo=prettier" />
   <img src="https://img.shields.io/badge/Vercel-3d3d3d?style=plastic&logo=vercel" />
@@ -58,7 +57,8 @@
   <img src="https://img.shields.io/badge/Astro-3d3d3d?style=plastic&logo=astro" />
   <img src="https://img.shields.io/badge/MongoDB-3d3d3d?style=plastic&logo=mongodb" />
   <img src="https://img.shields.io/badge/Express-3d3d3d?style=plastic&logo=express" />
-  <img src="https://img.shields.io/badge/Markdown-3d3d3d?style=plastic&logo=markdown" />
+  <img src="https://img.shields.io/badge/MDX-3d3d3d?style=plastic&logo=mdx" />
+   <img src="https://img.shields.io/badge/Markdown-3d3d3d?style=plastic&logo=markdown" />
   <img src="https://img.shields.io/badge/Netlify-3d3d3d?style=plastic&logo=netlify" />
  <h5>Rarely <i>(less than once per month)</i></h5>
   <img src="https://img.shields.io/badge/Deno-3d3d3d?style=plastic&logo=deno" />

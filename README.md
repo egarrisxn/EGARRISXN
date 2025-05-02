@@ -19,7 +19,7 @@
 </div>
 <br/>
 <div>
- <img src="https://github.com/user-attachments/assets/210765c6-c601-413b-9a55-d6d60c11823c" alt="Animated character working on a laptop" width="400" align="right" />
+ <img src="https://github.com/user-attachments/assets/210765c6-c601-413b-9a55-d6d60c11823c" alt="Animated character working on a laptop" width="370" align="right" />
   <p>
 I'm a <b>Full Stack Developer</b> & <b>Digital Product Designer</b> focused on building experiences that are as intuitive as they are innovative. I’m continually mastering the tools and frameworks that power the modern web, all while simplifying complex systems and making them more accessible. You can explore more of my work at <a href="https://egxo.dev">egxo.dev</a> or <a href="https://egxo.fyi">egxo.fyi</a>, and follow my journey across the many corners of the internet. Also, if you'd like to get in touch, feel free to reach out via email at <a href="mailto:egarrisxn@gmail.com">egarrisxn@gmail.com</a>.
   </p>

@@ -6,7 +6,7 @@
 
 <div>
  <h1>
-  Hello, World. I'm <a href="https://egxo.dev">Ethan G</a>.
+  Hello, World. I'm <a href="https://egxo.dev">Ethan</a>.
  </h1>
 </div>
 <div>
@@ -30,11 +30,18 @@
   🃏 A Little About Me
  </h3>
  <p>
+  ✨ Full Stack Developer & Product Designer<br/>
+  ⚡ Learn more at <a href="https://egxo.dev">egxo.dev</a> or <a href="https://egxo.fyi">egxo.fyi</a><br/>
+  👯 Follow my journey on THE social media<br/>
+  📫 Best way to connect: <a href="mailto:egarrisxn@gmail.com">egarrisxn@gmail.com</a>
+</p>
+
+<!--  <p>
   ✨ Full Stack Developer & Digital Product Designer<br/>
   ⚡ Learn more over about me at <a href="https://egxo.dev">egxo.dev</a> or <a href="https://egxo.fyi">egxo.fyi</a><br/>
   👯 Follow my development journey through social media<br/>
   📫 Reach out at <a href='mailto:egarrisxn@gmail.com'>egarrisxn@gmail.com</a> for business inquiries
- </p>
+ </p> -->
  <img src="https://spotify-recently-played-readme.vercel.app/api?user=egarrisxn&count=1" alt="Spotify Recently Played" />
 </div>
 

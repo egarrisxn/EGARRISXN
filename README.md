@@ -7,18 +7,18 @@
 </div>
 <div>
   <a href="https://linkedin.com/in/ethan-gx" target="_blank" rel="noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-3d3d3d?style=plastic&label=in&labelColor=%230072B1"></a>
-  <a href="https://x.com/eg__xo"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-3d3d3d?style=plastic&logo=x&logoColor=%23000000"></a>
+  <a href='mailto:egarrisxn@gmail.com'><img alt="Email" src="https://img.shields.io/badge/Email-3d3d3d?style=plastic&logo=gmail&logoColor=%23EA4335"></a>
+  <a href="https://open.spotify.com/user/egarrisxn" target="_blank" rel="noreferrer"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-3d3d3d?style=plastic&logo=spotify&logoColor=%231ED760"></a>
   <a href="https://instagram.com/eg___xo" target="_blank" rel="noreferrer"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-3d3d3d?style=plastic&logo=instagram&logoColor=%23FF7F7F"></a>
+  <a href="https://x.com/eg__xo"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-3d3d3d?style=plastic&logo=x&logoColor=%23000000"></a>
   <a href="https://bsky.app/profile/egxo.bsky.social" target="_blank" rel="noreferrer"><img alt="BlueSky" src="https://img.shields.io/badge/BlueSky-3d3d3d?style=plastic&logo=bluesky&logoColor=%2387CEEB"></a>
+   <a href="https://discord.com/users/eg___xo" target="_blank" rel="noreferrer"><img alt="Discord" src="https://img.shields.io/badge/Discord-3d3d3d?style=plastic&logo=discord&logoColor=%235865F2"></a>
   <a href="https:/threads.net/@eg___xo" target="_blank" rel="noreferrer"><img alt="Threads" src="https://img.shields.io/badge/Threads-3d3d3d?style=plastic&logo=threads&logoColor=%23000000"></a>
   <a href='https://mastodon.social/@eg_Xo'><img alt="Mastodon" src="https://img.shields.io/badge/Mastadon-3d3d3d?style=plastic&logo=mastodon&logoColor=%236364FF"></a>
   <a href='https://peerlist.io/eg_xo'><img alt="Peerlist" src="https://img.shields.io/badge/Peerlist-3d3d3d?style=plastic&logo=peerlist&logoColor=%2300AA45"></a>
-  <a href="https://discord.com/users/eg___xo" target="_blank" rel="noreferrer"><img alt="Discord" src="https://img.shields.io/badge/Discord-3d3d3d?style=plastic&logo=discord&logoColor=%235865F2"></a>
-  <a href="https://open.spotify.com/user/egarrisxn" target="_blank" rel="noreferrer"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-3d3d3d?style=plastic&logo=spotify&logoColor=%231ED760"></a>
-  <a href='mailto:egarrisxn@gmail.com'><img alt="Email" src="https://img.shields.io/badge/Email-3d3d3d?style=plastic&logo=gmail&logoColor=%23EA4335"></a>
 </div>
 <div>
- <img align="right" alt="Character with computer" width="350" src="https://github.com/user-attachments/assets/210765c6-c601-413b-9a55-d6d60c11823c" />
+ <img align="right" alt="Character with computer" width="360" src="https://github.com/user-attachments/assets/210765c6-c601-413b-9a55-d6d60c11823c" />
  <h3>🃏 A Little About Me</h3>
   <h5>
   ✨ Full Stack Developer & Digital Product Designer<br/>
@@ -30,7 +30,6 @@
  <img alt="Spotify Recently Played" width="350" src="https://spotify-recently-played-readme.vercel.app/api?user=egarrisxn&count=1&width=350" />
 </div>
 <div>
- <br/>
  <h3>💾 Technologies In Use</h3>
  <h5>Frequently <i>(at least once per day)</i></h5>
   <img src="https://img.shields.io/badge/Git-3d3d3d?style=plastic&logo=git" />
@@ -71,13 +70,11 @@
   <img src="https://img.shields.io/badge/Heroku-3d3d3d?style=plastic&logo=heroku" />
 </div>
 <div>
- <br/>
  <h3>📈 GitHub Analytics</h3>
  <img alt="Languages Graph" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=egarrisxn&theme=dracula&layout=compact&hide_border=true&border_radius=5&locale=en&langs_count=5&hide_title=false&card_width=350" /><br/>
  <img alt="GitHub Streak" width="350" src="https://streak-stats.demolab.com?user=egarrisxn&theme=dracula&hide_border=true&border_radius=5&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&card_width=350" />
 </div>
 <div>
- <br/>
  <h3>😶‍🌫️ Don't Forget..</h3>
  <img alt="Readme Quote" width="350" src="https://quotes-github-readme.vercel.app/api?theme=dracula&quote=%E2%80%9CYou%20miss%20100%25%20of%20the%20shots%20you%20don%E2%80%99t%20take.%E2%80%9D%20%E2%80%93%20Wayne%20Gretzky&author=Michael%20Scott" />
 </div>

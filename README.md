@@ -1,13 +1,10 @@
 <div>
  <img src="https://komarev.com/ghpvc/?username=egarrisxn&style=flat&color=blue" align="right" height="20" alt="Visit Counter"/>
 </div>
-
 <br/>
-
 <div>
  <h1>Hello, World. I'm <a href="https://egxo.dev">Ethan</a>.</h1>
 </div>
-
 <div>
   <a href="https://linkedin.com/in/ethan-gx" target="_blank" rel="noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-3d3d3d?style=plastic&label=in&labelColor=%230072B1"></a>
   <a href="https://x.com/eg__xo"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-3d3d3d?style=plastic&logo=x&logoColor=%23000000"></a>
@@ -20,7 +17,6 @@
   <a href="https://open.spotify.com/user/egarrisxn" target="_blank" rel="noreferrer"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-3d3d3d?style=plastic&logo=spotify&logoColor=%231ED760"></a>
   <a href='mailto:egarrisxn@gmail.com'><img alt="Email" src="https://img.shields.io/badge/Email-3d3d3d?style=plastic&logo=gmail&logoColor=%23EA4335"></a>
 </div>
-
 <div>
  <img align="right" alt="Character with computer" width="350" src="https://github.com/user-attachments/assets/210765c6-c601-413b-9a55-d6d60c11823c" />
  <h3>🃏 A Little About Me</h3>
@@ -31,7 +27,6 @@
  <br/>
  <img alt="Spotify Recently Played" width="350" src="https://spotify-recently-played-readme.vercel.app/api?user=egarrisxn&count=1&width=350" />
 </div>
-
 <div>
  <br/>
  <h3>💾 Technologies Used</h3>
@@ -69,22 +64,18 @@
   <img src="https://img.shields.io/badge/jQuery-3d3d3d?style=plastic&logo=jquery" />
   <img src="https://img.shields.io/badge/Bootstrap-3d3d3d?style=plastic&logo=bootstrap" />
 </div>
-
 <div>
  <br/>
  <h3>📈 GitHub Analytics</h3>
-  <img alt="Languages Graph" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=egarrisxn&theme=dracula&layout=compact&hide_border=true&border_radius=5&locale=en&langs_count=5&hide_title=false&card_width=350" /><br/>
+   <img alt="Languages Graph" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=egarrisxn&theme=dracula&layout=compact&hide_border=true&border_radius=5&locale=en&langs_count=5&hide_title=false&card_width=350" /><br/>
   <img alt="GitHub Streak" width="350" src="https://streak-stats.demolab.com?user=egarrisxn&theme=dracula&hide_border=true&border_radius=5&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&card_width=350" />
 </div>
-
 <div>
  <br/>
  <h3>😶‍🌫️ Don't Forget..</h3>
  <img alt="Readme Quote" width="350" src="https://quotes-github-readme.vercel.app/api?theme=dracula&quote=%E2%80%9CYou%20miss%20100%25%20of%20the%20shots%20you%20don%E2%80%99t%20take.%E2%80%9D%20%E2%80%93%20Wayne%20Gretzky&author=Michael%20Scott" />
 </div>
-
 <hr/>
-
 <div>
  <a href="https://www.buymeacoffee.com/egarrisxn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align="right" height="30" width="100" alt="Buy Me A Coffee" /></a>
  <p><strong>Thanks for stoping by. 💙</strong></p>

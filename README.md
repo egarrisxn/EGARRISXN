@@ -74,11 +74,9 @@ I'm a <b>Full Stack Developer</b> & <b>Digital Product Designer</b> focused on b
   <img src="https://img.shields.io/badge/Sequelize-3d3d3d?style=flat&logo=sequelize" />
   <img src="https://img.shields.io/badge/MySQL-3d3d3d?style=flat&logo=mysql" />
 </div>
-<br/>
 <div>
  <h3>📈 <b>GitHub Analytics</b></h3>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egarrisxn&theme=dracula&layout=compact&hide_border=true&border_radius=5&locale=en&langs_count=5&hide_title=false&card_width=350" alt="Languages Graph" width="350" /><br/>
- <img src="https://streak-stats.demolab.com?user=egarrisxn&theme=dracula&hide_border=true&border_radius=5&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&card_width=350" alt="GitHub Streak" width="350" />
 </div>
 <div>
  <h3>😶‍🌫️ <b>Always Remember..</b></h3>

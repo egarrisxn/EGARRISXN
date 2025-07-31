@@ -26,22 +26,20 @@ I'm a <b>Full Stack Developer</b> & <b>Digital Product Designer</b> focused on b
  <img src="https://spotify-recently-played-readme.vercel.app/api?user=egarrisxn&count=1&width=350" alt="Spotify Recently Played" width="350" />
 </div>
 <div>
- <h3>💾 <b>Technologies I Use</b></h3>
- <p>Frequently <i>(at least once a day)</i></p>
+ <h3>💾 <b>Things I Use</b></h3>
+ <p>Frequently</p>
   <img src="https://img.shields.io/badge/TypeScript-3d3d3d?style=flat&logo=typescript" />
   <img src="https://img.shields.io/badge/JavaScript-3d3d3d?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/Next-3d3d3d?style=flat&logo=nextdotjs" />
   <img src="https://img.shields.io/badge/React-3d3d3d?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/HTML5-3d3d3d?style=flat&logo=html5" />
   <img src="https://img.shields.io/badge/Git-3d3d3d?style=flat&logo=git" />
- <img src="https://img.shields.io/badge/Turbopack-3d3d3d?style=flat&logo=data:image/svg+xml;base64,CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI5MyIgdmlld0JveD0iMCAwIDI1NiAyOTMiPjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0ibG9nb3NUdXJib3BhY2tJY29uMCIgeDE9IjUwJSIgeDI9IjQ5Ljg1NSUiIHkxPSI3Ljg5NiUiIHkyPSI5My4zNDMlIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDA5NkZGIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjRkYxRTU2Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHBhdGggZmlsbD0idXJsKCNsb2dvc1R1cmJvcGFja0ljb24wKSIgZD0iTTEyOCAwTDQ2LjE2IDQ2Ljc2OGwuMTYgMzYuNzUyTDEyOCAzNi44NDhsOTYgNTQuODY0TDI1NiAxMTBWNzMuMTM2em0tMTQuNCAyNDcuNDg4TDMyIDIwMC44NjRWOTEuNzkybC0uMDMyLS4wMTZsLS4xNzYtMzYuOEwwIDczLjEzNnYxNDYuMjg4bDgxLjY4IDQ2LjY3MnpNMjI0IDIwMC44NjR2LTkyLjU2bDMyIDE4LjI4OHY5Mi44MzJsLTEyOCA3My4xNTJsLTMxLjg4OC0xOC4yMjRMMTI4IDI1NS43NnYtLjA0OHoiLz48cGF0aCBkPSJNNDYuNCAxMDguMzY5djg0LjEyOGw4MS42IDQ2LjY0di04NC4xNDR6TTEyOCA1My40NDFsLTc0LjM1MiA0Mi40OGw4MS42MTYgNDYuNjRsNzQuMzM2LTQyLjQ5NnoiLz48L3N2Zz4K" />
-  <img src="https://img.shields.io/badge/Tailwind-3d3d3d?style=flat&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/CSS3-3d3d3d?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/shadcn-3d3d3d?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0yMi4yMTkgMTEuNzg0TDExLjc4NCAyMi4yMTlhMS4wNDUgMS4wNDUgMCAwIDAgMS40NzYgMS40NzZMMjMuNjk1IDEzLjI2YTEuMDQ1IDEuMDQ1IDAgMCAwLTEuNDc2LTEuNDc2TTIwLjEzMi4zMDVMLjMwNSAyMC4xMzJhMS4wNDUgMS4wNDUgMCAwIDAgMS40NzYgMS40NzZMMjEuNjA4IDEuNzgxQTEuMDQ1IDEuMDQ1IDAgMCAwIDIwLjEzMi4zMDUiLz48L3N2Zz4=">
-  <img src="https://img.shields.io/badge/Radix-3d3d3d?style=flat&logo=radixui" />
   <img src="https://img.shields.io/badge/Node-3d3d3d?style=flat&logo=nodedotjs" />
   <img src="https://img.shields.io/badge/PNPM-3d3d3d?style=flat&logo=pnpm" />
-  <img src="https://img.shields.io/badge/NPM-3d3d3d?style=flat&logo=npm" />
+ <img src="https://img.shields.io/badge/Turbopack-3d3d3d?style=flat&logo=data:image/svg+xml;base64,CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI5MyIgdmlld0JveD0iMCAwIDI1NiAyOTMiPjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0ibG9nb3NUdXJib3BhY2tJY29uMCIgeDE9IjUwJSIgeDI9IjQ5Ljg1NSUiIHkxPSI3Ljg5NiUiIHkyPSI5My4zNDMlIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDA5NkZGIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjRkYxRTU2Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHBhdGggZmlsbD0idXJsKCNsb2dvc1R1cmJvcGFja0ljb24wKSIgZD0iTTEyOCAwTDQ2LjE2IDQ2Ljc2OGwuMTYgMzYuNzUyTDEyOCAzNi44NDhsOTYgNTQuODY0TDI1NiAxMTBWNzMuMTM2em0tMTQuNCAyNDcuNDg4TDMyIDIwMC44NjRWOTEuNzkybC0uMDMyLS4wMTZsLS4xNzYtMzYuOEwwIDczLjEzNnYxNDYuMjg4bDgxLjY4IDQ2LjY3MnpNMjI0IDIwMC44NjR2LTkyLjU2bDMyIDE4LjI4OHY5Mi44MzJsLTEyOCA3My4xNTJsLTMxLjg4OC0xOC4yMjRMMTI4IDI1NS43NnYtLjA0OHoiLz48cGF0aCBkPSJNNDYuNCAxMDguMzY5djg0LjEyOGw4MS42IDQ2LjY0di04NC4xNDR6TTEyOCA1My40NDFsLTc0LjM1MiA0Mi40OGw4MS42MTYgNDYuNjRsNzQuMzM2LTQyLjQ5NnoiLz48L3N2Zz4K" />
+  <img src="https://img.shields.io/badge/HTML5-3d3d3d?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-3d3d3d?style=flat&logo=css" />
+  <img src="https://img.shields.io/badge/TailwindCSS-3d3d3d?style=flat&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/RadixUI-3d3d3d?style=flat&logo=radixui" />
   <img src="https://img.shields.io/badge/Supabase-3d3d3d?style=flat&logo=supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-3d3d3d?style=flat&logo=postgresql" />
   <img src="https://img.shields.io/badge/Zod-3d3d3d?style=flat&logo=zod" />
@@ -51,35 +49,24 @@ I'm a <b>Full Stack Developer</b> & <b>Digital Product Designer</b> focused on b
   <img src="https://img.shields.io/badge/Prettier-3d3d3d?style=flat&logo=prettier" />
   <img src="https://img.shields.io/badge/ESLint-3d3d3d?style=flat&logo=eslint" />
   <img src="https://img.shields.io/badge/Vercel-3d3d3d?style=flat&logo=vercel" />
-  <img src="https://img.shields.io/badge/Canva-3d3d3d?style=flat&logo=canva" />
  <br/><br/>
- <p>Occasionally <i>(around once a week)</i></p>
+  <p>Occasionally</p>
   <img src="https://img.shields.io/badge/Vite-3d3d3d?style=flat&logo=vite" />
-  <img src="https://img.shields.io/badge/Astro-3d3d3d?style=flat&logo=astro" />
-  <img src="https://img.shields.io/badge/Prisma-3d3d3d?style=flat&logo=prisma" />
   <img src="https://img.shields.io/badge/Express-3d3d3d?style=flat&logo=express" />
   <img src="https://img.shields.io/badge/MongoDB-3d3d3d?style=flat&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Auth0-3d3d3d?style=flat&logo=auth0" />
-  <img src="https://img.shields.io/badge/Vitest-3d3d3d?style=flat&logo=vitest" />
-  <img src="https://img.shields.io/badge/Postman-3d3d3d?style=flat&logo=postman" />
-  <img src="https://img.shields.io/badge/AWS-3d3d3d?style=flat&logo=amazonwebservices" />
-  <img src="https://img.shields.io/badge/Netlify-3d3d3d?style=flat&logo=netlify" />
- <br/><br/>
- <p>Rarely <i>(less than once a month)</i></p>
-  <img src="https://img.shields.io/badge/Deno-3d3d3d?style=flat&logo=deno" />
-  <img src="https://img.shields.io/badge/Hono-3d3d3d?style=flat&logo=hono" />
+  <img src="https://img.shields.io/badge/Prisma-3d3d3d?style=flat&logo=prisma" />
+   <img src="https://img.shields.io/badge/NPM-3d3d3d?style=flat&logo=npm" />
   <img src="https://img.shields.io/badge/Webpack-3d3d3d?style=flat&logo=webpack" />
-  <img src="https://img.shields.io/badge/Angular-3d3d3d?style=flat&logo=angular" />
-  <img src="https://img.shields.io/badge/jQuery-3d3d3d?style=flat&logo=jquery" />
-  <img src="https://img.shields.io/badge/Sequelize-3d3d3d?style=flat&logo=sequelize" />
-  <img src="https://img.shields.io/badge/MySQL-3d3d3d?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/Netlify-3d3d3d?style=flat&logo=netlify" />
+    <img src="https://img.shields.io/badge/Heroku-3d3d3d?style=flat&logo=heroku" />
+
 </div>
 <div>
- <h3>📈 <b>GitHub Analytics</b></h3>
+ <h3>📈 <b>Some Analytics</b></h3>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egarrisxn&theme=dracula&layout=compact&hide_border=true&border_radius=5&locale=en&langs_count=5&hide_title=false&card_width=350" alt="Languages Graph" width="350" /><br/>
 </div>
 <div>
- <h3>😶‍🌫️ <b>Always Remember..</b></h3>
+ <h3>😶‍🌫️ <b>Never Forget</b></h3>
  <img src="https://quotes-github-readme.vercel.app/api?theme=dracula&quote=%E2%80%9CYou%20miss%20100%25%20of%20the%20shots%20you%20don%E2%80%99t%20take.%E2%80%9D%20%E2%80%93%20Wayne%20Gretzky&author=Michael%20Scott" alt="Readme Quote" width="350" />
 </div>
 <hr/>

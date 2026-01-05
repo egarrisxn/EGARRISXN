@@ -55,10 +55,10 @@ I'm a <b>Full Stack Developer</b> & <b>Digital Product Designer</b> focused on b
   <img src="https://img.shields.io/badge/Express-3d3d3d?style=flat&logo=express" />
   <img src="https://img.shields.io/badge/MongoDB-3d3d3d?style=flat&logo=mongodb" />
   <img src="https://img.shields.io/badge/Prisma-3d3d3d?style=flat&logo=prisma" />
-   <img src="https://img.shields.io/badge/NPM-3d3d3d?style=flat&logo=npm" />
+  <img src="https://img.shields.io/badge/NPM-3d3d3d?style=flat&logo=npm" />
   <img src="https://img.shields.io/badge/Webpack-3d3d3d?style=flat&logo=webpack" />
   <img src="https://img.shields.io/badge/Netlify-3d3d3d?style=flat&logo=netlify" />
-    <img src="https://img.shields.io/badge/Heroku-3d3d3d?style=flat&logo=heroku" />
+  <img src="https://img.shields.io/badge/Heroku-3d3d3d?style=flat&logo=heroku" />
 
 </div>
 <div>

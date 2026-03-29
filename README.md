@@ -1,6 +1,4 @@
-<div>
- <h2>Hey there. I'm <a href="https://egxo.dev">Ethan Garrison</a>.</h2>
-</div>
+<h1>Hey there. I'm <a href="https://egxo.dev">Ethan Garrison</a>.</h1>
 <div>
   <a href="https://instagram.com/eg___xo" target="_blank" rel="noreferrer"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-3d3d3d?style=flat&logo=instagram&logoColor=%23FF7F7F"></a>
   <a href="https://x.com/eg__xo"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-3d3d3d?style=flat&logo=x&logoColor=%23000000"></a>
@@ -23,6 +21,4 @@
  <img src="https://quotes-github-readme.vercel.app/api?theme=dracula&quote=%E2%80%9CYou%20miss%20100%25%20of%20the%20shots%20you%20don%E2%80%99t%20take.%E2%80%9D%20%E2%80%93%20Wayne%20Gretzky&author=Michael%20Scott" alt="Readme Quote" width="350" />
 </div>
 <hr/>
-<div>
- <img src="https://komarev.com/ghpvc/?username=egarrisxn&style=flat&color=blue" alt="Visit Counter" height="20" align="left" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=egarrisxn&style=flat&color=blue" alt="Visit Counter" height="20" align="left" />
